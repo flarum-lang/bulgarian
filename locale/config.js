@@ -1,6 +1,6 @@
-// source: https://unpkg.com/dayjs@v1.10.4/locale/xx.js
-// see: https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/xx.js
+// source: https://unpkg.com/dayjs@v1.10.4/locale/bg.js
+// see: https://github.com/iamkun/dayjs/blob/v1.10.4/src/locale/bg.js
 
-// TODO: copy compiled translations from https://unpkg.com/dayjs@v1.10.4/locale/xx.js
+!function(_,e){"object"==typeof exports&&"undefined"!=typeof module?module.exports=e(require("dayjs")):"function"==typeof define&&define.amd?define(["dayjs"],e):_.dayjs_locale_bg=e(_.dayjs)}(this,function(_){"use strict";_=_&&_.hasOwnProperty("default")?_.default:_;var e={name:"bg",weekdays:"Неделя_Понеделник_Вторник_Сряда_Четвъртък_Петък_Събота".split("_"),weekdaysShort:"нед_пон_вто_сря_чет_пет_съб".split("_"),weekdaysMin:"нд_пн_вт_ср_чт_пт_сб".split("_"),months:"Януари_Февруари_Март_Април_Май_Юни_Юли_Август_Септември_Октомври_Ноември_Декември".split("_"),monthsShort:"Янр_Фев_Мар_Апр_Май_Юни_Юли_Авг_Сеп_Окт_Ное_Дек".split("_"),weekStart:1,ordinal:function(_){return _+"."},formats:{LT:"H:mm",LTS:"H:mm:ss",L:"D.MM.YYYY",LL:"D MMMM YYYY",LLL:"D MMMM YYYY H:mm",LLLL:"dddd, D MMMM YYYY H:mm"},relativeTime:{future:"след %s",past:"преди %s",s:"няколко секунди",m:"минута",mm:"%d минути",h:"час",hh:"%d часа",d:"ден",dd:"%d дни",M:"месец",MM:"%d месеца",y:"година",yy:"%d години"}};return _.locale(e,null,!0),e});
 
-dayjs.locale('xx');
+dayjs.locale('bg');
