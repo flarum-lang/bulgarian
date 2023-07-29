@@ -57,6 +57,7 @@ php flarum cache:clear
 | [`flarum/akismet`](https://github.com/flarum/akismet) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-akismet/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-akismet/bg/) |
 | [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/bg/) |
 | [`flarum/bbcode`](https://github.com/flarum/bbcode) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-bbcode/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-bbcode/bg/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/bg/) |
 | [`flarum/mentions`](https://github.com/flarum/mentions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-mentions/bg/) |
 | [`flarum/subscriptions`](https://github.com/flarum/subscriptions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-subscriptions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-subscriptions/bg/) |
 | [`flarum/tags`](https://github.com/flarum/tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/flarum-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-tags/bg/) |
@@ -71,6 +72,7 @@ php flarum cache:clear
 | Extension | Status |
 | --- | --- |
 | [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/fof-cookie-consent/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-cookie-consent/bg/) |
+| [`fof/terms`](https://github.com/FriendsOfFlarum/terms) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/fof-terms/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-terms/bg/) |
 
 <!-- fof-extensions-list-stop -->
 
