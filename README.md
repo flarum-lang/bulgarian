@@ -66,6 +66,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/fof-cookie-consent/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/fof-cookie-consent/bg/) |
 
 <!-- fof-extensions-list-stop -->
 
@@ -86,10 +87,18 @@ php flarum cache:clear
 | [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/afrux-online-users-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/afrux-online-users-widget/bg/) |
 | [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/afrux-top-posters-widget/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/afrux-top-posters-widget/bg/) |
 | [`akr/chevereto`](https://github.com/AKR-Developers/flarum-chevereto) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/akr-chevereto/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/akr-chevereto/bg/) |
+| [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/annonny-dice/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/annonny-dice/bg/) |
 | [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/antoinefr-money/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-money/bg/) |
 | [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/antoinefr-online/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/antoinefr-online/bg/) |
 | [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/archlinux-de-click-image/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/archlinux-de-click-image/bg/) |
+| [`askvortsov/flarum-article-series`](https://github.com/askvortsov1/flarum-article-series) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/askvortsov-article-series/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-article-series/bg/) |
 | [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/askvortsov-checklist/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-checklist/bg/) |
+| [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/askvortsov-help-tags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-help-tags/bg/) |
+| [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/askvortsov-saml/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/askvortsov-saml/bg/) |
+| [`blessing/flarum-oauth-client`](https://github.com/bs-community/flarum-oauth-client) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/blessing-oauth-client/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blessing-oauth-client/bg/) |
+| [`blomstra/conversations`](https://github.com/blomstra/flarum-ext-conversations) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/blomstra-conversations/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-conversations/bg/) |
+| [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/blomstra-fontawesome/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-fontawesome/bg/) |
+| [`blomstra/mark-unread`](https://github.com/blomstra/flarum-ext-mark-unread) | [![Translation status](https://weblate.rob006.net/widgets/flarum/bg/blomstra-mark-unread/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/blomstra-mark-unread/bg/) |
 
 <!-- various-extensions-list-stop -->
 
