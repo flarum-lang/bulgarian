@@ -4,6 +4,30 @@
 
 afrux-theme-base:
   admin:
+    extension:
+      sections:
+        content: 'Основни настройки'
+        permissions: 'Права за достъп'
     extensions:
-      description: 'Списък с инсталирани разширения'
+      description: 'Списък с инсталирани разширения.'
       title: Разширения
+    header:
+      go_back: 'Обратно към форума'
+    settings:
+      edit_footer_links: 'Редакция на линковете в долния край'
+      footer_bottom_line: 'Долен ред в дъното на страницата'
+      footer_description: 'Описание на дъното на страницата'
+      hero_banner: 'Welcome Hero Снимка'
+      hero_banner_position: 'Hero Снимка CSS Позиция (например: center top'' или ''center 20%'')'
+      links_modal:
+        add_group: 'Нова група от връзки'
+        add_link: 'Добави връзка'
+        group_name: 'Група {number} Име'
+        group_title: 'Заглавие на група връзки'
+        link_label: 'Етикет на връзката'
+        link_url: 'Връзка URL'
+    users:
+      grid:
+        columns:
+          avatar:
+            title: Аватар
