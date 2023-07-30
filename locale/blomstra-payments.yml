@@ -8,7 +8,11 @@ blomstra-payments:
       accept_label: 'Прочетох <link>условията за плащане</link> и се съгласявам с тях.'
       continue_button: 'Продължи с плащането'
       title: 'Съгласи се с условията'
+    pay-to-post:
+      purchase: 'Купи за да публикуваш'
+      purchase-control: 'Плати за да публикуваш'
     pay-to-view:
+      description: "Публикациите от тук нататък са платени. Можете да ги достъпите, като извършите плащане чрез Stripe.\n"
       purchase-completed: Отключено
       purchase-control: 'Плати за да видиш'
       purchase-log-in: 'Влез и плати за да видиш'
