@@ -12,6 +12,13 @@
 		"bulgarian"
 	],
 	"license": "MIT",
+	"authors": [
+		{
+				"name": "Nikolay Sokolov",
+				"email": "nikolay.sokolov@pingvini.bg",
+				"homepage": "https://pingvini.bg/"
+		}
+	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/bulgarian/issues",
 		"source": "https://github.com/flarum-lang/bulgarian"
@@ -23,7 +30,7 @@
 	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Bulgarian",
+			"title": "Български",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -33,7 +40,7 @@
 		},
 		"flarum-locale": {
 			"code": "bg",
-			"title": "Bulgarian"
+			"title": "Български"
 		},
 		"extiverse": {
 			"discuss": ""
