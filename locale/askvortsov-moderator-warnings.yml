@@ -48,3 +48,8 @@ askvortsov-moderator-warnings:
       public_comment: Внимание
     warning_modal:
       confirmation_message: 'Вашето предупреждение е запазено. Може да е необходимо да опресните страницата, за да го видите.'
+      heading: 'Предупреди <strong>{username}</strong>'
+      private_comment_heading: 'Защо <strong>{username}</strong> получава тези предупреждения? Тези коментари ще бъдат видими САМО за други модератори.'
+      public_comment_heading: 'Защо <strong>{username}</strong> получава тези предупреждения? Тези коментари ще бъдат видими за потребителя и другите модератори.'
+      strikes_heading: 'Колко предупреждения трябва да се приложат?'
+      submit_button: 'Запазете предупреждение'
