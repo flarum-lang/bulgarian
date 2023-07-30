@@ -53,6 +53,7 @@ CHANGELOG
 * [`blomstra/search`](https://github.com/blomstra/flarum-ext-search)
 * [`blomstra/secondary-tags-toggler`](https://github.com/blomstra/flarum-ext-secondary-tags-toggler)
 * [`blomstra/sort-order-toggle`](https://github.com/blomstra/flarum-ext-sort-order-toggle)
+* [`blomstra/trello`](https://github.com/blomstra/flarum-ext-trello)
 * [`blomstra/usercard-stats`](https://github.com/blomstra/flarum-ext-usercard-stats)
 * [`blomstra/welcome-login`](https://github.com/blomstra/flarum-ext-welcome-login)
 * [`cadiducho/bbcode`](https://github.com/EdorasMinecraft/BBcode)
