@@ -4,4 +4,5 @@
 
 justoverclock-thread-read-time:
   forum:
+    ofThread: 'на дискусията'
     reading: 'Вие сте прочели'
