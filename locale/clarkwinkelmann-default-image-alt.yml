@@ -4,4 +4,5 @@
 
 clarkwinkelmann-default-image-alt:
   api:
+    alt-text-author: 'Изображението е качено от {username}'
     alt-text-generic: 'Изображение в генерирано от потребителите съдържание'
