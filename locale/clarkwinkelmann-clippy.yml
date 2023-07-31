@@ -14,7 +14,7 @@ clarkwinkelmann-clippy:
       cdn: CDN
       cdn-options:
         custom: Персонализиран
-        jsdelivr: jsDelivr
+        jsdelivr: js_Delivr
         s3: 'Amazon S3'
       events: Събития
       events-help: 'Изберете кои анимации и балончета да се показват при всяко от тези събития'

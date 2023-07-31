@@ -35,8 +35,8 @@ fof-doorman:
         key: Ключ
         max_uses: 'Максимум ползвания'
         title: 'Кодове за Покана'
-        total_uses: '{totalUses, plural, one {Used {totalUses} time} other {Used {totalUses} times}}'
-        used_times: '{remaining, plural, =0 {Unlimited uses} one {{remaining} use left} other {{remaining} uses left}}'
+        total_uses: '{totalUses, plural, one {Използвано {totalUses} път} other {Използвано {totalUses} пъти}}'
+        used_times: '{remaining, plural, =0 {Unlimited uses} one { остава {remaining} използване} other {остават {remaining} използвания}}'
         warning: 'Кодът за покана беше изпратен максималният брой позволени за ползване пъти.'
       title: Портиер
   forum:
