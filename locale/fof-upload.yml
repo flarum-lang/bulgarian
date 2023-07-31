@@ -16,6 +16,18 @@ fof-upload:
       s3_compatible_storage: "Следните настройки са необходими само когато се използва хранилище съвместимо с S3. Ако използваш AWS, може да ги оставиш празни.\n"
       s3_instance_profile: "Остави ключът скрит и празен за да използваш удостоверения за самоличност (credentials) в профила на инстанцията.\n"
       watermark: "Избери дали изображенията да имат добавен воден знак по време на качването (upload). Водните знаци се добавят към изображения без гифчета (no gifs) въз основа на твоите предпочитания по-долу.\n"
+    inspect-mime:
+      description: "FoF качване използва <a>PHP Mime Detector</a> библиотека за общи MIME типове и PHP Fileinfo като резервен вариант.\nMIME стойността върната от Fileinfo може да бъде различна от сървър до сървър!\n"
+      guessed-extension: 'Разширение на файл по подразбиране (ако оригиналният не е в списъка)'
+      laravel-validation: 'Laravel Валидация на Файл'
+      mime-detector: 'Mime Детектор(основен)'
+      mime-fileinfo: 'PHP Fileinfo (резервен вариант)'
+      no-file-selected: 'Няма файл'
+      not-available: 'Няма резултат'
+      select: 'Избере файл долу, за да инспектираш стойностите, които ще бъдат използвани. Файлът няма да бъде запазен.'
+      title: 'Инспектирай MIME'
+      validation-failed: 'Неуспешен: {error}'
+      validation-passed: Преминат
     labels:
       aws-s3:
         acl: 'Контролен Списък за Достъп (ACL)'
@@ -27,6 +39,14 @@ fof-upload:
         secret: Таен
         title: 'AWS S3 настройки за хранилище'
         use_path_style_endpoint: 'Използвай стил път за крайната точка'
+      client_extension:
+        title: 'Разширения на файл подадени от потребителя'
+      composer_buttons:
+        options:
+          both: 'И двете'
+          media-btn: 'Само бутон за управление на медия'
+          upload-btn: 'Само бутон за качване (upload)'
+        title: 'Бутони за съставяне'
       disable-download-logging:
         title: 'Деактивирай записите на свалянията (downloads)'
         toggle: Деактивирай
@@ -37,6 +57,95 @@ fof-upload:
         client_id: 'Imgur клиент ID'
         title: 'Imgur настройки на хранилище за изображения'
         tos: 'Твоя отговорност е да осигуриш, че потребителите на твоя форум спазват Imgur''s 1<a>Условия за ползване</a>'
+      inspect-mime: 'Тест файл MIME вид'
+      local:
+        cdn_url: 'Content Delivery URL (prefixes files)'
+        title: 'Локални настройки на хранилище'
+      preferences:
+        max_file_size: 'Максимален размер на файла (в килобайти)'
+        mime_types: 'Конфигурирай твоя тип mime, адаптер мапинг за качване (upload)'
+        php_ini_values: 'Твоите <code>php.ini</code> стойности са<code>post_max_size={post}</code> и<code>upload_max_filesize={upload}</code>. Подсигури, че стойностите тук са под тези прагове, или съотвено ги коригирай. Ако използваш<code>Nginx</code>, също подсигури,че <code>client_max_body_size</code> е с достатъчен размер за избрания от теб максимален лимит.'
+        title: 'Общи преференции'
+      qiniu:
+        bucket: Категория
+        key: Ключ
+        secret: Таен
+        title: 'Qiniu настройки на хранилище'
+      resize:
+        max_width: 'Максимална (ширина/височина) на изображение'
+        title: 'Промени размера на изображението'
+        toggle: 'Промени размера на изображенията'
+      watermark:
+        file: 'Качи твоето изображение с воден знак'
+        position: 'Позиция на водния знак'
+        title: 'Изображения с воден знак'
+        toggle: 'Изображения с воден знак'
     pane:
       description: 'Настрой услугите за качване и преференции.'
       title: Качване
+    permissions:
+      delete_uploads_of_others_label: 'Изтрий качвания на потребител (uploads)'
+      download_label: 'Изтегли файлове'
+      upload_label: 'Качи файлове (upload)'
+      view_user_uploads_label: 'Виж качвания на потребител (user)'
+    templates:
+      bbcode-image: 'BBCode образец за изображение'
+      bbcode-image_description: "Показва пълното изображение в редица използвайки BBCode. <strong>Трябва да имаш активен и инсталиран flarum/bbcode за да функционира.</strong> Без функционалност за сваляне (download), без събиране на статистика и защитата на hotlink е игнорирана.\n"
+      file: 'Образе за сваляне на файл по подразбиране'
+      file_description: "Показва името на файла и някоя обща информация. Сваляне на проксита през php позволява събиране на статистика и защита на hotlink.\n"
+      image: 'Образец за сваляне на изображение по подразбиране'
+      image-preview: 'Завърши образец за преглед на изображение'
+      image-preview_description: "Показва пълното изображение в редица. Без функционалност за сваляне (download), няма събиране на статистика и защитата на hotlink е игнорирана.\n"
+      image_description: "Показва thumbnail на изображенията и на прокситата свалени през php. Позволява събиране на статистика и защита на hotlink.\n"
+      just-url: 'Само URL'
+      just-url_description: "Въведи самоURL. Rendering може да бъде поддържано от други разширения с auto-link опция. Без функционалост за сваляне, без събиране на статистика и защитата на hotlink е игнорирана.\n"
+      markdown-image: 'Markdown образеца за изображение'
+      markdown-image_description: "Показва пълнот изображение в редица използвайки Markdown. <strong>Трябва да имаш инсталиран и активен flarum/markdown за да функционира.</strong> Без функционалност за сваляне (download), без събиране на статистика и защитата на hotlink е игнорирана.\n"
+      text-preview: 'Преглед на текст'
+      text-preview_description: "Включва преглед (първите 5 реда) на текстовия файл, с опция да се разгърне за да покаже цялото съдържание на файла.\n"
+    upload_methods:
+      aws-s3: S3/Съвместим
+      imgur: Imgur
+      local: Локален
+      ovh-svfs: 'OVH SVFS'
+      qiniu: QiNiu
+  api:
+    upload_errors:
+      could_not_detect_mime: 'Неуспешно откриване на MIME вид на този файл, моля опитай отново.'
+      forbidden_type: 'Качването на файлове от този вид не е позволено.'
+      unsupported_type: 'Адаптерът за качване не поддържа подаденият mime вид:{mime}.'
+  forum:
+    buttons:
+      attach: Прикачи
+      cancel: Откажи
+      media: 'Моята медия'
+      upload: 'Качи (upload)'
+      user_uploads: 'Качвания на потребител (uploads)'
+    file_list:
+      confirm_selection_btn: '{fileCount, plural, =0 {None selected} one {Select file} other {Select files}}'
+      empty: 'Няма файлове за показване.'
+      hide_file:
+        btn_a11y_label: 'Скрий "{fileName}" от управление на медия'
+        hide_confirmation: 'Сигурен ли си, че искаш да скриеш "{fileName}"? Скривайки файл само ще го премахме от твоето управление на медия и няма да се отрази на съществуващи публикации.'
+        hide_fail: 'Неуспешно скриване на файл "{fileName}"'
+        hide_success: 'Скрит файл'
+        loading: 'Файлът се скрива...'
+      load_more_files_btn: 'Зареди повече файлове'
+      loading: 'Зареждане на файлове...'
+      modal_empty_desktop: 'Твоят списък с файлове е празен. Натистни на бутони или провлачи файл тук за качване.'
+      modal_empty_phone: 'Твоят списък с файлове е празен. Натисни бутона горе за да качиш файл.'
+      release_to_upload: 'Освободи за качване'
+      select_file_a11y_label: 'Избери файл "{fileName}"'
+    media_manager: 'Управление на медия'
+    states:
+      error: Грешка
+      loading: 'Качва се'
+      unauthorized: 'Не си оторизиран да свалиш файловете'
+    text_preview:
+      collapse: 'Скрий прегледа'
+      error: "Грешка при преглед на файл. Може да е бил изтрит, или предоставеното ID на файла е невалидно.\n"
+      expand: 'Разшири прегледа'
+      no_snippet: '<no preview snippet available>'
+      no_snippet_preview: '<preview will appear here after posting>'
+    validation:
+      max_size: 'Качвания над {max} kb не са приети.'
