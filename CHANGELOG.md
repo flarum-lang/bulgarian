@@ -98,6 +98,7 @@ CHANGELOG
 * [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
 * [`fof/discussion-thumbnail`](https://github.com/FriendsOfFlarum/discussion-thumbnail)
 * [`fof/disposable-emails`](https://github.com/FriendsOfFlarum/disposable-emails)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
 * [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting)
 * [`fof/html-errors`](https://github.com/FriendsOfFlarum/html-errors)
 * [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
