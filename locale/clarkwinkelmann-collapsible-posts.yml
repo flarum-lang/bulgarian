@@ -4,5 +4,26 @@
 
 clarkwinkelmann-collapsible-posts:
   admin:
+    permission:
+      collapse: 'Свиване на публикации'
     settings:
+      add: 'Нова причина'
+      explanationUrl: 'URL за обяснение'
+      explanationUrlHelp: 'По избор. Показва се под сгънатите публикации'
+      header:
+        explanation: 'Персонализирано съобщение за обяснение'
+        key: 'Уникален ключ на база данни'
+        label: Етикет
       reasons: Причини
+  forum:
+    badge:
+      post: Сгънато
+    modal:
+      title: 'Свиване на публикацията'
+      uncollapse: Разгъни
+    postControl:
+      collapse: Свиване
+    stream:
+      explanation: 'Защо виждам това?'
+      hidden: '{count, plural, one {# post hidden as {reason}} other {# posts hidden as {reason}}}'
+      load: 'Зареди още'
