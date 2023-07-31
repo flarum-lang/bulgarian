@@ -16,5 +16,5 @@ fof-analytics:
         statusGoogle: 'Активирай Google Analytics (UA/GA4)'
         statusPiwik: 'Активирай Matomo'
       section:
-        googleAnalytics: 'Google Analytics'
-        piwik: Matomo
+        googleAnalytics: 'Гугъл Анализи'
+        piwik: Матомо
