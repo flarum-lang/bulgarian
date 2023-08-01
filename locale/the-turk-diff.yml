@@ -30,7 +30,7 @@ the-turk-diff:
     deleteErrorMessage: 'Изтриването на промените неуспешно.'
     deleteSuccessMessage: 'Редакциите на съдържанието бяха изтрити.'
     deletedInfo: '{username} изтри това съдържание {ago}'
-    deletedText: (deleted)
+    deletedText: (изтрито)
     differences:
       currentContent: '=> the-turk-diff.ref.currentContent'
       originalContent: '=> the-turk-diff.ref.originalContent'
@@ -48,7 +48,7 @@ the-turk-diff:
       sentence: 'Визуализация {content}'
     revertChangesButton: 'Отмени Промените'
     revisionInfo: 'Редактирани {revisionCount, plural, one {{revisionCount} time} other {{revisionCount} times}}, най-нови отгоре'
-    revisions: '{revisionCount, plural, one {{revisionCount} revision} other {{revisionCount} revisions}}'
+    revisions: '{revisionCount, plural, one {{revisionCount} ревизия} other {{revisionCount} ревизии}}'
     rollbackButton: 'Върни се към Чернова {number}'
     rollbackErrorMessage: 'Отмяната на промените неуспешна.'
     rollbackSuccessMessage: 'Твоите промени са отменени.'
