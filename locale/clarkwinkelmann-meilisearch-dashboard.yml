@@ -4,5 +4,7 @@
 
 clarkwinkelmann-meilisearch-dashboard:
   admin:
+    header:
+      link: 'Табло за управление на Meilisearch'
     permission:
       access: 'Достъп до таблото за управление на Meilisearch'
