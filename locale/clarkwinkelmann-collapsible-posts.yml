@@ -23,6 +23,7 @@ clarkwinkelmann-collapsible-posts:
       uncollapse: Разгъни
     postControl:
       collapse: Свиване
+      uncollapse: Разгръщане
     stream:
       explanation: 'Защо виждам това?'
       hidden: '{count, plural, one {# публикацията е скрита като {reason}} other {# публикациите са скрити като {reason}}}'

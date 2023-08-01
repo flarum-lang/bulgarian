@@ -4,17 +4,29 @@
 
 fof-analytics:
   admin:
+    matomo-widget:
+      title: Матомо
     popup:
       field:
         googleGTMCode: 'GTM код ID (опционален)'
         googleTrackingCode: 'Код за Проследяване ID'
         optTrackingCode: 'Оптимизирай Код за Проследяване (опционален)'
+        piwikAliasUrl: 'Алтернативен URL'
+        piwikAuthToken: 'Токен за удостоверяване'
+        piwikHideAliasUrl: 'В отчета "Изходящи връзки", скрийте кликовете към познати алтернативни URL'
         piwikPrependDomain: 'При проследяване добави домейна на сайта към началото на заглавието на страницата'
         piwikSiteId: 'Сайт ID'
+        piwikTrackAccounts: 'Следете отделни потребителски акаунти'
         piwikTrackSubdomain: 'Проследи посетителите на всички домейни на Flarum'
         piwikUrl: 'Matomo домейн или URL'
         statusGoogle: 'Активирай Google Analytics (UA/GA4)'
         statusPiwik: 'Активирай Matomo'
+      placeholder:
+        piwikAuthToken: "Попълнете това означение, за да активирате приспособление за статистика на Matomo в административния панел.\nМожете да го намерите в Settings > Personal > API Authentication Token.\n"
       section:
         googleAnalytics: 'Гугъл Анализи'
         piwik: Матомо
+      trackAccounts:
+        email: 'Проследяване по имейл'
+        none: 'Не проследявай'
+        username: 'Проследяване по потребителско име'

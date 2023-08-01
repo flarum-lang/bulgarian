@@ -26,8 +26,8 @@ clarkwinkelmann-post-stream-search:
       authorFilter: 'Показване само на отговорите от този автор'
     stream:
       noResults: 'Няма публикации, съответстващи на заявката за търсене в тази дискусия'
-      otherAuthorsGap: '{count, plural, one {One post by another author hidden} other {{count} posts by other authors hidden}}'
-      unmatchedGap: '{count, plural, one {One non-matching post hidden} other {{count} non-matching posts hidden}}'
+      otherAuthorsGap: '{count, plural, one {Една публикация от друг автор е скрита} other {{count} публикации от други автори са скрити}}'
+      unmatchedGap: '{count, plural, one {Една несъответстваща публикация е скрита} other {{count} несъответстващи публикация са скрити}}'
     toolbar:
       authorPlaceholder: 'Филтриране по автор...'
       clear: 'Изчистване на филтрите'

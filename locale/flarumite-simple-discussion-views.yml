@@ -11,6 +11,8 @@ flarumite-simple-discussion-views:
   admin:
     permissions:
       reset_views_label: 'Настрой прегледи за дискусия'
+    settings:
+      ignore_crawlers: 'Игнориране на посещения от сканери'
   forum:
     discussion_controls:
       resetviews_button: 'Настрой брояч за преглед'

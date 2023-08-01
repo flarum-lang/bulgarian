@@ -8,9 +8,14 @@ fof-moderator-notes:
       createnotes: 'Създай бележки на модератора'
       deletenotes: 'Изтрий бележки на модератора'
       viewnotes: 'Виж бележки на модератора'
+  api:
+    auto_note: '_Превключих към този потребител:_ {reason}'
+    auto_note_actor: '_Превключих към_ @{username}: {reason}'
+    no_reason_provided: 'Не е предоставена причина'
   forum:
     moderatorNotes:
       add_button: 'Нова бележка'
+      confirm: 'Сигурни ли сте, че искате да изтриете тази бележка?'
       create-heading: 'Създай нова бележка на модератор'
       created_text: '{username} създаде тази бележка на {date}'
       delete: Изтрий
@@ -19,3 +24,5 @@ fof-moderator-notes:
       noNotes: 'Изглежда, че няма повече бележки тук.'
       submit_button: 'Запази бележка'
     no_content_given: 'Не е позволена празна бележка.'
+    user:
+      notes: 'Бележки на модератора'

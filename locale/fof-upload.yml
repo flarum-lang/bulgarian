@@ -107,7 +107,7 @@ fof-upload:
       aws-s3: S3/Съвместим
       imgur: '*Imgur*'
       local: Локален
-      ovh-svfs: 'OVH SVFS'
+      ovh-svfs: '*OVH SVFS*'
       qiniu: '*QiNiu*'
   api:
     upload_errors:
@@ -145,7 +145,7 @@ fof-upload:
       collapse: 'Скрий прегледа'
       error: "Грешка при преглед на файл. Може да е бил изтрит, или предоставеното ID на файла е невалидно.\n"
       expand: 'Разшири прегледа'
-      no_snippet: '<no preview snippet available>'
-      no_snippet_preview: '<preview will appear here after posting>'
+      no_snippet: '<няма наличен фрагмент за визуализация>'
+      no_snippet_preview: '<визуализацията ще се появи тук след публикуване>'
     validation:
       max_size: 'Качвания над {max} kb не са приети.'
