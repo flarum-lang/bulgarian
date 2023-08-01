@@ -4,7 +4,14 @@
 
 clarkwinkelmann-predefined-avatars:
   admin:
+    permissions:
+      setCustomAvatarAlways: 'Задайте персонализиран аватар по всяко време'
+      setPredefinedAvatar: 'Изберете аватар от предварително зададения списък'
     settings:
+      defaultOptions:
+        first: 'Първи аватар от списъка'
+        none: 'Без аватар'
+        random: 'Произволен аватар от списък'
       predefinedAvatars: 'Налични аватари'
       predefinedAvatarsDefault: 'Аватар по подразбиране'
       predefinedAvatarsDefaultHelp: 'Важи за нови потребители при регистрация.'
@@ -13,3 +20,9 @@ clarkwinkelmann-predefined-avatars:
       predefinedAvatarsNoRemoveHelp: 'Потребителите, които вече имат персонализиран или предварително дефиниран аватар, няма да могат да се върнат към аватара с „инициали“ по подразбиране, освен ако нямат разрешението по-долу.'
       predefinedAvatarsOnly: 'Разрешаване само на предварително зададени аватари'
       predefinedAvatarsOnlyHelp: 'Премахва възможността за качване на персонализирани изображения на аватар, освен ако нямате разрешението по-долу.'
+  forum:
+    editor:
+      setPredefinedAvatar: 'Изберете предварително дефиниран аватар'
+    modal:
+      imageAlt: Аватар
+      title: 'Изберете аватар'
