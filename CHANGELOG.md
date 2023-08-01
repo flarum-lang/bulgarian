@@ -139,6 +139,7 @@ CHANGELOG
 * [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
 * [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
 * [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
 * [`fof/html-errors`](https://github.com/FriendsOfFlarum/html-errors)
 * [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes)
 * [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
