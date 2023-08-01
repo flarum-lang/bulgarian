@@ -20,7 +20,7 @@ fof-follow-tags:
   forum:
     badge:
       following_tag_tooltip: Следвам
-      lurking_tag_tooltip: Lurking
+      lurking_tag_tooltip: Наблюдение
     index:
       follow_tag_button: Последвай
       following:
@@ -61,4 +61,4 @@ fof-follow-tags:
     following: Следвам
     hiding: Скрит
     ignoring: Игнорирай
-    lurking: Lurking
+    lurking: Наблюдаване

@@ -59,7 +59,7 @@ fof-upload:
         tos: 'Твоя отговорност е да осигуриш, че потребителите на твоя форум спазват Imgur''s 1<a>Условия за ползване</a>'
       inspect-mime: 'Тест файл MIME вид'
       local:
-        cdn_url: 'Content Delivery URL (prefixes files)'
+        cdn_url: 'URL за доставка на съдържание (префиксира файловете)'
         title: 'Локални настройки на хранилище'
       preferences:
         max_file_size: 'Максимален размер на файла (в килобайти)'
@@ -105,10 +105,10 @@ fof-upload:
       text-preview_description: "Включва преглед (първите 5 реда) на текстовия файл, с опция да се разгърне за да покаже цялото съдържание на файла.\n"
     upload_methods:
       aws-s3: S3/Съвместим
-      imgur: Imgur
+      imgur: '*Imgur*'
       local: Локален
       ovh-svfs: 'OVH SVFS'
-      qiniu: QiNiu
+      qiniu: '*QiNiu*'
   api:
     upload_errors:
       could_not_detect_mime: 'Неуспешно откриване на MIME вид на този файл, моля опитай отново.'
@@ -122,7 +122,7 @@ fof-upload:
       upload: 'Качи (upload)'
       user_uploads: 'Качвания на потребител (uploads)'
     file_list:
-      confirm_selection_btn: '{fileCount, plural, =0 {None selected} one {Select file} other {Select files}}'
+      confirm_selection_btn: '{fileCount, plural, =0 {няма избран} one {избран файл} other {избрани файлове}}'
       empty: 'Няма файлове за показване.'
       hide_file:
         btn_a11y_label: 'Скрий "{fileName}" от управление на медия'
