@@ -27,7 +27,7 @@ fof-webhooks:
           bazaar:
             extensionwasinstalled: 'Разширението е инсталирано'
             extensionwasupdated: 'Разширението е актуализирано'
-            title: 'Extiverse Bazaar'
+            title: '*Extiverse Bazaar*'
         fof:
           banips:
             ipwasbanned: Забранен
@@ -35,7 +35,7 @@ fof-webhooks:
             title: 'FriendsOfFlarum Забрани на IP адреси'
           byobu:
             discussionmadepublic: 'Дискусията стана публична'
-            title: 'FriendsOfFlarum Byobu'
+            title: '*FriendsOfFlarum Byobu*'
           gamification:
             postwasvoted: 'Публикацията е харесана/не харесана'
             title: 'FriendsOfFlarum Игрови елементи'
@@ -47,5 +47,8 @@ fof-webhooks:
             postwasreacted: 'Реакция на публикация'
             postwasunreacted: 'Публикация без реакция'
             title: 'Реакции на FriendsOfFlarum'
+          twofactor:
+            title: 'FriendsOfFlarum Двуфакторна автентикация'
+            userenabledtwofactor: 'Потребителски активиран 2FA'
       services:
         custom: Персонализиран

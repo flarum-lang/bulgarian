@@ -18,9 +18,9 @@ fof-subscribed:
       postFlagged: "Здравей {recipient_display_name},\n\n{actor_display_name} току-що маркира с флаг публикация в {discussion_title}\n\nЗа да видиш тази публикация, виж следния линк\n{post_url}\n"
       postUnapproved: "Здравей {recipient_display_name},\n\n{actor_display_name} създаде публикация, която не беше автоматично одобрена в {discussion_title}\n\nЗа да видиш тази нова публикация, виж следния линк\n{post_url}\n\n---\n\n{post_content}\n"
     subject:
-      newDiscussion: '[Subscribed | New Discussion] {title}'
-      newUser: '[Subscribed | New User] {username}'
-      postUnapproved: '[Subscribed | Unapproved] {username} posted in {title}'
+      newDiscussion: '[Абониран | Нова дискусия] {title}'
+      newUser: '[Абониран | Нов потребител] {username}'
+      postUnapproved: '[Абониран | Неодобрен] {username} публикувано в {title}'
   forum:
     notifications:
       discussion_created_text: '{username} създаде нова дискусия'

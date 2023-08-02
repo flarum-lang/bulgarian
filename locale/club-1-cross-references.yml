@@ -15,4 +15,4 @@ club-1-cross-references:
     post_stream:
       discussion_referenced_multiple_text: '{username} референсира тази дискусия от няколко източника: {sources}'
       discussion_referenced_text: '{username} е рефериран в тази дискусия {source}'
-    unknown_discussion: '[unknown discussion]'
+    unknown_discussion: '[неизвестна дискусия]'

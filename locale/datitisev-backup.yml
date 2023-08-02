@@ -7,32 +7,32 @@ datitisev-backup:
     adapter-settings-modal:
       title: 'Конфигурирай {adapter}'
     adapters:
-      aliyun: 'Alibaba Cloud (Aliyun)'
-      aws: 'Amazon AWS S3'
+      aliyun: '*Alibaba Cloud (Aliyun)*'
+      aws: 'Амазон AWS S3'
       azure: 'Microsoft Azure'
-      dospaces: 'Digital Ocean Spaces'
+      dospaces: '*Digital Ocean Spaces*'
       dropbox: Dropbox
       ftp: FTP
-      gdrive: 'Google Drive'
-      gridfs: GridFS
+      gdrive: '*Google Drive*'
+      gridfs: '*GridFS*'
       local: 'Локално хранилище'
-      rackspace: Rackspace
+      rackspace: '*Rackspace*'
       sftp: SFTP
       webdav: Webdav
-      zip: 'Zip Archive'
+      zip: '*Zip Archive*'
     required-package-modal:
       title: 'Необходим е пакет за {adapter}'
     required_package_button: Настрой
     settings_button: Конфигурирай
     you-need-for:
-      aliyun: aliyuncs/aliyun-oss-flysystem
-      aws: league/flysystem-aws-s3-v3
-      azure: league/flysystem-azure
-      copy: league/flysystem-copy
-      dospaces: league/flysystem-aws-s3-v3
-      dropbox: spatie/flysystem-dropbox
-      gdrive: nao-pon/flysystem-google-drive
-      gridfs: league/flysystem-gridfs
+      aliyun: '*aliyuncs/aliyun-oss-flysystem*'
+      aws: '*league/flysystem-aws-s3-v3*'
+      azure: '*league/flysystem-azure*'
+      copy: '*league/flysystem-copy*'
+      dospaces: '*league/flysystem-aws-s3-v3*'
+      dropbox: '*spatie/flysystem-dropbox*'
+      gdrive: '*nao-pon/flysystem-google-drive*'
+      gridfs: '*league/flysystem-gridfs*'
       rackspace: league/flysystem-rackspace
       sftp: league/flysystem-sftp
       webdav: league/flysystem-webdav

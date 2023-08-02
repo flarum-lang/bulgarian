@@ -16,7 +16,7 @@ clarkwinkelmann-shadow-ban:
       user: 'Сянката е забранена'
     banUser:
       quick: 'Бърз избор'
-      quickChoiceDays: '{count, plural, one {# day} other {# days}}'
+      quickChoiceDays: '{count, plural, one {# ден} other {# дни}}'
       quickChoiceReset: 'Не е забранено'
       submit: Запази
       title: 'Спиране на {username}'

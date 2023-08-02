@@ -27,7 +27,7 @@ michaelbelgium-discussion-views:
     discussion_controls:
       resetviews_button: 'Нулирай прегледите'
     modal_resetviews:
-      label: '{count, plural, one {This will remove {count} view of this discussion. Continue?} other {This will remove {count} views of this discussion. Continue?}}'
+      label: '{count, plural, one {Това ще премахне {count} преглед на тази дискусия. Искате ли да продължите?} other {Това ще премахне {count} прегледа на тази дискусия. Искате ли да продължите?}}'
       submit_button: 'Да, премахни всички'
       title: 'Нулирай броя на прегледите за дискусията'
     post:

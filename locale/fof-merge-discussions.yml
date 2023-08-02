@@ -35,6 +35,6 @@ fof-merge-discussions:
       preferences:
         discussion_merged: 'Някой обедини една от моите дискусии с друга'
     post:
-      merged: '{count, plural, one {Merged <b>#</b> post from {titles}.} other {Merged <b>#</b> posts from {titles}.}}'
+      merged: '{count, plural, one {Обединена <b>#</b> публикация от {titles}.} other {Обединени <b>#</b> публикации от {titles}.}}'
   ref:
     merge: Обедини

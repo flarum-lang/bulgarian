@@ -43,7 +43,7 @@ fof-reactions:
     disabled-reaction: 'Не можеш да използваш тази реакция сега, моля презареди страницата'
     mod_item: 'Виж Реакции'
     modal:
-      anonymous_count: '{count, plural, one {# anonymous user} other {# anonymous users}}'
+      anonymous_count: '{count, plural, one {# анонимен потребител} other {# анонимни потребители}}'
       title: Реакции
     notification: '{username} реагира с {reaction} на вашата публикация'
     react_button_label: Реагирай
