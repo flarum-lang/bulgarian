@@ -33,6 +33,6 @@ datitisev-backup:
       dropbox: '*spatie/flysystem-dropbox*'
       gdrive: '*nao-pon/flysystem-google-drive*'
       gridfs: '*league/flysystem-gridfs*'
-      rackspace: league/flysystem-rackspace
-      sftp: league/flysystem-sftp
-      webdav: league/flysystem-webdav
+      rackspace: '*league/flysystem-rackspace*'
+      sftp: '*league/flysystem-sftp*'
+      webdav: '*league/flysystem-webdav*'
