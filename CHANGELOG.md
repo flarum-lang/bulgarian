@@ -104,6 +104,8 @@ CHANGELOG
 * [`clarkwinkelmann/flarum-ext-reset-preferences`](https://github.com/clarkwinkelmann/flarum-ext-reset-preferences)
 * [`clarkwinkelmann/flarum-ext-roll-die`](https://github.com/clarkwinkelmann/flarum-ext-roll-die)
 * [`clarkwinkelmann/flarum-ext-scout`](https://github.com/clarkwinkelmann/flarum-ext-scout)
+* [`clarkwinkelmann/flarum-ext-scratchpad`](https://github.com/clarkwinkelmann/flarum-ext-scratchpad)
+* [`clarkwinkelmann/flarum-ext-see-past-first-post`](https://github.com/clarkwinkelmann/flarum-ext-see-past-first-post)
 * [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read)
 * [`club-1/flarum-ext-cross-references`](https://github.com/club-1/flarum-ext-cross-references)
 * [`convo-extensions/flarum-ext-quick-reply`](https://extiverse.com/extension/convo-extensions/flarum-ext-quick-reply)
