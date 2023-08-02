@@ -131,6 +131,8 @@ CHANGELOG
 * [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
 * [`datlechin/flarum-discussion-overview`](https://github.com/datlechin/flarum-discussion-overview)
 * [`datlechin/flarum-keyboard-shortcuts`](https://github.com/datlechin/flarum-keyboard-shortcuts)
+* [`datlechin/flarum-landing-page`](https://github.com/datlechin/flarum-landing-page)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
 * [`datlechin/flarum-remove-sidenav`](https://github.com/datlechin/flarum-remove-sidenav)
 * [`datlechin/flarum-signup-button`](https://github.com/datlechin/flarum-signup-button)
 * [`datlechin/flarum-usercard-uid`](https://github.com/flatension/flarum-usercard-uid)
