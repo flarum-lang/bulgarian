@@ -19,9 +19,16 @@ clarkwinkelmann-scout:
       limit: 'Лимит на резултатите по подразбиране'
       limitHelp: "Това ще отмени броя на резултатите, поискани от търсачката, и ще повлияе на броя страници с резултати, които могат да бъдат генерирани (ограничението включва и съдържание, което потребителят няма да може да види). Някои двигатели може да изискват допълнителна конфигурация, за да променят максимално позволеното.\n"
       limitPlaceholder: Автоматичен
+      meilisearchHost: 'Хост на Meilisearch'
+      meilisearchKey: 'Ключ за Meilisearch'
       prefix: 'Префикс на име на индекс (по избор)'
       queryMinLength: 'Минимална дължина на заявката за предложения'
       queryMinLengthHelp: "Тази настройка засяга само падащото меню с предложения на въведеното търсене в заглавката. Flarum има дължина на заявката по подразбиране от 3 знака преди извличане на предложения, която можете да замените с тази настройка. Цялата страница с резултати от търсенето никога няма минимална дължина на заявката. Трябва да изчистите кеша, след като промените тази стойност.\n"
       queryMinLengthPlaceholder: Автоматичен
       queue: 'Обработване на актуализации на индекса в линия'
       queueHelp: 'Тази настройка има ефект само ако във Flarum е конфигуриран драйвер за асинхронна опашка.'
+      tntsearchFuzziness: 'Неясно търсене на TNT (съвпадение на печатни грешки/вариации)'
+      tntsearchFuzzyDistance: 'TNT Search Fuzziness Levenshtein Distance (optional)'
+      tntsearchFuzzyMaxExpansions: 'TNT Search Fuzziness Max Expansions (optional)'
+      tntsearchFuzzyPrefixLength: 'TNT Search Fuzziness Prefix Length (optional)'
+      tntsearchMaxDocs: 'TNT Search Max Docs (по избор, максимален брой резултати)'

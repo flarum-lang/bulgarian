@@ -3,6 +3,20 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-merge-discussions:
+  admin:
+    permissions:
+      merge_discussions_label: 'Обедини дискусии'
+    settings:
+      search_result_help: 'Колко дискусии да се показват когато се търси в "Обединени Дискусии"модул.'
+  api:
+    error:
+      deleting_failed: 'Неуспешно изтриване на празни дискусии.'
+      merging_failed: 'Неуспешно обединяване на дискусии.'
+      updating_failed: 'Неуспешно обновяване на детайлите на дискусията.'
+  email:
+    merged:
+      body: "Здравей {recipient_display_name},\n\nТвоята дискусия, {merged_discussion_title}, беше обединена с {discussion_title} от {actor_display_name}.\n\nВиж я тук {discussion_url} .\n"
+      subject: 'Твоята дискусия"{merged_discussion_title}" беше обединена'
   forum:
     discussion:
       merge: '=> fof-merge-discussions.ref.merge'
@@ -22,3 +36,5 @@ fof-merge-discussions:
         discussion_merged: 'Някой обедини една от моите дискусии с друга'
     post:
       merged: '{count, plural, one {Merged <b>#</b> post from {titles}.} other {Merged <b>#</b> posts from {titles}.}}'
+  ref:
+    merge: Обедини

@@ -6,3 +6,8 @@ clarkwinkelmann-mass-actions:
   forum:
     select:
       all: Всички
+      locked: Заключено
+      none: 'Нито един'
+      read: Прочети
+      unread: Непрочетено
+      visible: 'Не е изтрито'
