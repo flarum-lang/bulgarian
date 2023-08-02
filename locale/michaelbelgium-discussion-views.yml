@@ -8,6 +8,33 @@ core:
       popular_button: Популярен
       unpopular_button: Непопулярен
 michaelbelgium-discussion-views:
+  admin:
+    permissions:
+      reset_views_label: 'Нулирай прегледите на дискусията'
+      view_number_label: 'Виж брой прегледи на дискусията'
+    settings:
+      abbr_numbers_label: 'Съкрати брой на прегледи'
+      abbr_numbers_text: 'Ако е активирано, висок брой на прегледи ще бъде съкратен (например 1000=1к)'
+      max_viewcount_label: 'Максимум елементи на списъка с прегледи'
+      show_filter_label: 'Активирай "(не)популярен" поле за сортиране'
+      show_viewlist_label: 'Активирай списък с прегледи'
+      show_viewlist_text: 'Активирай списък с последни посетители в страничната лента на дискусията'
+      title: 'Настройки за прегледи на дискусия'
+      track_guests_label: 'Проследи гости'
+      track_unique_label: 'Проследи уникални прегледи'
+      track_unique_text: 'Увеличи прегледи на база на ip-адрес'
   forum:
+    discussion_controls:
+      resetviews_button: 'Нулирай прегледите'
     modal_resetviews:
+      label: '{count, plural, one {This will remove {count} view of this discussion. Continue?} other {This will remove {count} views of this discussion. Continue?}}'
+      submit_button: 'Да, премахни всички'
       title: 'Нулирай броя на прегледите за дискусията'
+    post:
+      modal_title_text: 'Потребители, които прегледаха тази дискусия'
+      others_link: '=> core.ref.some_others'
+      viewed_by: '{users} видяха това.'
+      you: '=> core.ref.you'
+    viewlist:
+      guest: Гост
+      title: 'Последни прегледи'
