@@ -3,11 +3,26 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 clarkwinkelmann-mass-actions:
+  admin:
+    permissions:
+      controls: 'Виж контролите за групово избиране'
   forum:
+    actions:
+      delete: 'Изтрий завинаги избраното'
+      deleteConfirmation: '{count, plural, one {Are you sure you want to permanently delete the selected discussion?} other {Are you sure you want to permanently delete # selected discussions?}}'
+      hide: 'Изтрий избраното'
+      lock: 'Заключи избраното'
+      markAsRead: 'Отбележи избраното като прочетено'
+      restore: 'Възстанови избраното'
+      tags: Тагове
+      tags-add: 'Добави <em>{tag}</em>'
+      tags-edit: 'Редактирай тагове'
+      unlock: 'Отключи избраното'
     select:
       all: Всички
       locked: Заключено
       none: 'Нито един'
       read: Прочети
+      unlocked: Заключено
       unread: Непрочетено
       visible: 'Не е изтрито'
