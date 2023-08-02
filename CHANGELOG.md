@@ -159,6 +159,7 @@ CHANGELOG
 * [`justoverclock/thread-read-time`](https://github.com/justoverclockl/thread-read-time)
 * [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see)
 * [`marchccc/flarum-ext-mentions-group-users`](https://github.com/Marchccc/flarum-ext-mentions-group-users)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
 * [`miniflar/top-like-givers-widget`](https://github.com/miniflar/top-like-givers-widget)
 * [`nearata/flarum-ext-copy-code-to-clipboard`](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard)
 * [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password)
