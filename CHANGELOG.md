@@ -147,6 +147,7 @@ CHANGELOG
 * [`dem13n/topic-starter-label`](https://github.com/Dem13n/topic-starter-label)
 * [`extiverse/mercury`](https://github.com/extiverse/mercury)
 * [`flamarkt/matomo`](https://github.com/flamarkt/matomo)
+* [`flamarkt/taxonomies`](https://github.com/flamarkt/taxonomies)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/bbcode`](https://github.com/flarum/bbcode)
