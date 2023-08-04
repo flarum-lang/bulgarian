@@ -21,8 +21,34 @@ fof-drafts:
       saving: 'Запазва се...'
       title: 'Запази Чернова'
     dropdown:
+      alert: 'Сигурен ли си, че искаш да изтриеш тази чернова?'
+      delete_all_alert: 'Сигурен ли си, че искаш да изтриеш всички твои чернови?'
       delete_all_button: 'Изтрий всички чернови'
+      delete_button: 'Изтрий чернова'
       empty_text: 'Не сте запазили никакви чернови'
+      schedule_button: '=> fof-drafts.ref.schedule_draft'
+      scheduled_icon_tooltip: 'Планиран за {datetime}'
+      scheduled_icon_tooltip_formatter: 'L [at] LT'
       title: Чернови
+      tooltip: '=> fof-drafts.forum.dropdown.title'
+    schedule_draft_modal:
+      reschedule_button: 'Планирай отново'
+      schedule_button: Планирай
+      schedule_time_preview: 'Тази чернова ще бъде автоматично публикувана на <b>{datetime}</b>.'
+      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_invalid: 'Невалидна дата и/или час'
+      scheduled_error: 'Невъзможно да се планира чернова: {error}.'
+      scheduled_text: 'Към момента планиран да се публикува в {datetime}.'
+      text: 'Планирай драфта ти да бъде автоматично публикуван по-късно!'
+      title: '=> fof-drafts.ref.schedule_draft'
+      unschedule_button: 'Отмени планиране'
+      unschedule_warning: 'Сигурен ли си, че искаш да отмениш планирането на тази чернова?'
+    user:
+      settings:
+        draft_autosave_enable: 'Активирай автоматично запазване на чернова?'
+        draft_autosave_interval_button: 'Актуализирай интервал'
+        draft_autosave_interval_invalid: 'Интервалът трябва да е цяло число по-голямо от 4.'
+        draft_autosave_interval_label: 'Интервал за автоматично запазване (секунди)'
+        drafts_heading: Чернови
   ref:
     schedule_draft: 'Планирай чернова'

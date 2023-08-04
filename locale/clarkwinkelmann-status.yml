@@ -5,6 +5,7 @@
 clarkwinkelmann-status:
   admin:
     permissions:
+      mod: 'Модерирай статус на потребител'
       see: 'Виж статус'
       set: 'Дефинирай статус'
     settings:
