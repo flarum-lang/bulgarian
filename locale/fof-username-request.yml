@@ -21,7 +21,11 @@ fof-username-request:
         success: 'Изпратено Решение.'
         title: '=> fof-username-request.ref.nickname_change_request'
       request:
+        confirmation_message: 'Твоята заявка за промяна на псевдонима е изпратена и чака одобрение.'
         current_request: 'Вече сте поискали да промените псевдонима си на „{name}“. Можете или да актуализирате заявката си, или да я изтриете.'
+        delete_button: 'Изтрий запитване'
+        deleted: 'Заявката за псевдоним е изтрита.'
+        dismiss_button: '=> core.ref.okay'
         submit_button: 'Изпрати заявка'
         title: 'Заяви промяна на псевдоним'
       results:
@@ -32,3 +36,50 @@ fof-username-request:
         rejected: 'Твоята заявка за промяна на псевдоним беше отхвърлена'
         resubmit: 'Понастоящем можете да изпратите отново нова заявка за промяна на псевдоним от настройките на вашия акаунт, ако решите.'
         title: 'Заявка за промяна на псевдоним'
+    pending_requests:
+      empty_text: 'Няма намерени заявки за промяна на името.'
+      nickname_exerpt: 'Заявен псевдоним: {requestedName}'
+      nickname_item_text: '{name} поиска промяна на псевдонима'
+      title: '=> fof-username-request.ref.name_change_requests'
+      tooltip: '=> fof-username-request.ref.name_change_requests'
+      username_exerpt: 'Заявено потребителско име: {requestedName}'
+      username_item_text: '{name} поиска промяна на потребителско име'
+    settings:
+      nickname_request_button: 'Промени псевдоним'
+      username_request_button: 'Промени потребителско име'
+    user:
+      name_history_link: 'История на имената'
+    username_modals:
+      action:
+        approval_label: Одобрявам
+        decision_title: Решение
+        help_text: 'Моля, уверете се, че исканата промяна на потребителското име следва указанията на форума.'
+        name: '{name} поиска да промени потребителското си име на "{requestedName}"'
+        reason_title: 'Причина за отхвърляне'
+        rejected_label: Отхвърлям
+        submit_button: Изпращам
+        success: 'Изпратено решение.'
+        title: '=> fof-username-request.ref.username_change_request'
+      request:
+        confirmation_message: 'Твоята заявка за промяна на потребителското име е изпратена и чака одобрение.'
+        current_request: 'Вече поиска промяна на твоето потребителско име на "{name}". Можеш или да актуализираш заявката си или да я изтриеш.'
+        delete_button: 'Изтрий Заявка'
+        deleted: 'Заявката за потребителско име е изтрита.'
+        dismiss_button: '=> core.ref.okay'
+        submit_button: 'Изпрати заявка'
+        title: 'Поискай промяна на потребителското име'
+      results:
+        approved: 'Твоята заявка за промяна на потребителското име е одобрена'
+        dismiss_button: '=> core.ref.okay'
+        new_name: 'Твоето потребителско име е променено успешно на: {name}'
+        reason: 'Причина за отказ: <i>"{reason}"</i>.'
+        rejected: 'Твоята заявка за промяна на потребителското име беше отхвърлена'
+        resubmit: 'Понастоящем можеш да изпратите отново нова заявка за промяна на потребителското име от настройките на твоя акаунт, ако решиш.'
+        title: 'Заявка за промяна на потребителското име'
+  ref:
+    name_change_request: 'Искане за промяна на името'
+    name_change_requests: 'Искания за промяна на името'
+    nickname_change_request: 'Искане за промяна на псевдонима'
+    nickname_change_requests: 'Искания за промяна на псевдонима'
+    username_change_request: 'Искане за промяна на потребителско име'
+    username_change_requests: 'Искания за промяна на потребителско име'
