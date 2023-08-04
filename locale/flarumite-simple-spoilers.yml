@@ -8,3 +8,4 @@ flarumite:
       post:
         spoiler:
           closed: 'Кликни, за да разкриеш'
+          open: 'Натисни да скриеш'

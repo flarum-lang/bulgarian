@@ -5,4 +5,5 @@
 fof-socialprofile:
   admin:
     permissions:
+      editOwn: 'Редактирай собствения си социален профил'
       view: 'Виж социален профил'
