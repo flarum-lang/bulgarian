@@ -5,7 +5,7 @@ CHANGELOG
 1.0.0 (XXXX-XX-XX)
 ------------------
 
-**General changes**:
+**Общи промени**:
 
 * Updated Day.js translations.
 * Updated Flarum core translations.
@@ -136,6 +136,7 @@ CHANGELOG
 * [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions)
 * [`datlechin/flarum-offline-indicator`](https://github.com/datlechin/flarum-offline-indicator)
 * [`datlechin/flarum-posted-on`](https://github.com/datlechin/flarum-posted-on)
+* [`datlechin/flarum-pronouns`](https://github.com/datlechin/flarum-pronouns)
 * [`datlechin/flarum-remove-sidenav`](https://github.com/datlechin/flarum-remove-sidenav)
 * [`datlechin/flarum-scroll-buttons`](https://github.com/datlechin/flarum-scroll-buttons)
 * [`datlechin/flarum-signup-button`](https://github.com/datlechin/flarum-signup-button)
@@ -152,6 +153,7 @@ CHANGELOG
 * [`dem13n/topic-starter-label`](https://github.com/Dem13n/topic-starter-label)
 * [`extiverse/mercury`](https://github.com/extiverse/mercury)
 * [`ffans/clipboardjs`](https://github.com/FFans/clipboardjs)
+* [`flamarkt/backoffice`](https://github.com/flamarkt/backoffice)
 * [`flamarkt/matomo`](https://github.com/flamarkt/matomo)
 * [`flamarkt/taxonomies`](https://github.com/flamarkt/taxonomies)
 * [`flarum/akismet`](https://github.com/flarum/akismet)
@@ -211,6 +213,7 @@ CHANGELOG
 * [`fof/pwned-passwords`](https://github.com/FriendsOfFlarum/pwned-passwords)
 * [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
 * [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`fof/secure-https`](https://github.com/FriendsOfFlarum/secure-https)
 * [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry)
 * [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
 * [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
@@ -225,6 +228,7 @@ CHANGELOG
 * [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
 * [`ganuonglachanh/sonic`](https://github.com/ganuonglachanh/flarum-sonic)
 * [`gbcl/userip`](https://github.com/GBCLStudio/userip)
+* [`glowingblue/localizd`](https://extiverse.com/extension/glowingblue/localizd)
 * [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
 * [`hehongyuanlove/flarum-auth-qq`](https://github.com/Hehongyuanlove/flarum-auth-qq)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
@@ -250,6 +254,7 @@ CHANGELOG
 * [`justoverclock/discussion-tags`](https://extiverse.com/extension/justoverclock/discussion-tags)
 * [`justoverclock/edit-posts`](https://github.com/justoverclockl/edit-posts)
 * [`justoverclock/events-countdown`](https://github.com/justoverclockl/events-countdown)
+* [`justoverclock/export-post-to-pdf`](https://extiverse.com/extension/justoverclock/export-post-to-pdf)
 * [`justoverclock/feautured-discussions-widget`](https://github.com/justoverclockl/feautured-discussions-widget)
 * [`justoverclock/flarum-ext-feedback`](https://github.com/justoverclockl/flarum-ext-feedback)
 * [`justoverclock/first-visit-indexpage`](https://github.com/justoverclockl/first-visit-indexpage)
@@ -315,6 +320,7 @@ CHANGELOG
 * [`the-turk/flarum-nodp`](https://github.com/the-turk/flarum-nodp)
 * [`the-turk/flarum-quiet-edits`](https://github.com/the-turk/flarum-quiet-edits)
 * [`the-turk/flarum-regrole`](https://github.com/the-turk/flarum-regrole)
+* [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs)
 * [`tituspijean/flarum-ext-auth-ldap`](https://github.com/tituspijean/flarum-ext-auth-ldap)
 * [`tokenjenny/flarum-ext-web3`](https://github.com/tokenjenny/flarum-ext-web3)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
@@ -324,6 +330,10 @@ CHANGELOG
 * [`widayn/flarum-avatar-cropper`](https://github.com/WiDayn/flarum-avatar-cropper)
 * [`wolfgang-demeter/flarum-ext-bbcode-5star-rating`](https://github.com/wolfgang-demeter/flarum-ext-bbcode-5star-rating)
 * [`xrh0905/oauth-microsoft`](https://github.com/xrh0905/flarum-ext-oauth-microsoft)
+* [`xsoft-ict/mason-tag`](https://github.com/xsoft-ict/fof-mason-tag)
+* [`zerosonesfun/expired-posts`](https://github.com/zerosonesfun/expired-posts)
+* [`ziiven/flarum-decoration-store`](https://extiverse.com/extension/ziiven/flarum-decoration-store)
+* [`ziiven/flarum-pay-to-see`](https://extiverse.com/extension/ziiven/flarum-pay-to-see)
 * [`ziiven/flarum-post-number`](https://github.com/Ziiven/flarum-post-number)
 * [`ziiven/flarum-raffle-ticket`](https://extiverse.com/extension/ziiven/flarum-raffle-ticket)
 * [`ziiven/view-history`](https://github.com/Ziiven/view-history)
