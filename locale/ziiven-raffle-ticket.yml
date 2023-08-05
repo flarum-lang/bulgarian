@@ -3,21 +3,98 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 ziven-guaguale:
+  admin:
+    guaguale-add: 'Добави нов талон'
+    guaguale-add-error: 'Добави грешка'
+    guaguale-data-add: Добави
+    guaguale-data-cancel: Отмени
+    guaguale-data-confirm: Потвърди
+    guaguale-data-not-enough-tickets: 'Нямате достатъчно билети'
+    guaguale-data-remove: Х
+    guaguale-data-save: Запази
+    guaguale-data-setting-invalid: 'Въведената стойност е невалидна'
+    guaguale-data-update: Актуализирай
+    guaguale-data-win-amount: Стойност
+    guaguale-data-win-chance: '(Шанс за печалба: {winChance}%)'
+    guaguale-data-win-price: Цена
+    guaguale-data-win-price-already-exist: 'Вече е създадена награда'
+    guaguale-edit: 'Редактирай талона'
+    guaguale-unit-name: ' билети'
+    settings:
+      guaguale-display-name: Име
+      guaguale-display-name-default: Талон
+      guaguale-item-activated: Активирано
+      guaguale-item-amount: Стойност
+      guaguale-item-background: Фон
+      guaguale-item-color: Цвят
+      guaguale-item-color-background: 'Цвят/Фон (Опционално. Оставете празно, за да използвате произволен цвят за фон)'
+      guaguale-item-color-placeholder: 'Въведете цвят за фон на серията. пример: #999999'
+      guaguale-item-cost: Разход/билет
+      guaguale-item-deactivated: Деактивирано
+      guaguale-item-delete: Изтрий
+      guaguale-item-delete-confirmation: 'Сигурни ли сте, че искате да изтриете тази серия талони?'
+      guaguale-item-desc: Описание
+      guaguale-item-edit: Редакция
+      guaguale-item-id: ID
+      guaguale-item-limit: 'Лимит на покупките'
+      guaguale-item-limit-desc: 'Лимит на покупките на потребител (0 означава без лимит)'
+      guaguale-item-purchased: 'Купени"'
+      guaguale-item-settings: 'Настройка на билет'
+      guaguale-item-status: Статут
+      guaguale-item-title: Заглавие
+      guaguale-item-unlimited: 'Без лимит'
+      guaguale-timezone: 'Часова зона'
+      guaguale-timezone-default: Азия/Шанхай
+      guaguale-timezone-help: 'Задайте часовата зона за времето на прехвърляне. По подразбиране е "Азия/Шанхай"'
+      guaguale-unit-name: ' Билети'
   forum:
     guaguale-available-amount: 'Налични: {count} билети'
+    guaguale-close: Затворено
     guaguale-current-money-amount: 'Текущи пари: '
+    guaguale-display-name-default: Талон
+    guaguale-history-list-assign-at: 'Време за покупка'
+    guaguale-history-list-cost: Разход
+    guaguale-history-list-count: Сума
+    guaguale-history-list-empty: 'Няма история на покупките'
+    guaguale-history-list-id: ID
+    guaguale-history-list-load-more: 'Зареди още'
+    guaguale-history-list-open-result: 'Отворен резултат'
+    guaguale-history-list-title: 'Име на талоните'
+    guaguale-list-empty: 'Няма съдържание'
+    guaguale-list-item-available: 'Останали: {available} билети'
+    guaguale-list-item-cost: 'Крайна цена: {cost}/билет'
+    guaguale-list-item-soldout: 'Останали: Sold out'
+    guaguale-list-item-soldout-text: Разпродадени
+    guaguale-open-error: 'Грешка при отваряне на талон'
+    guaguale-open-error-already-opened: 'Този талон е вече отворен'
+    guaguale-purchase: 'Купи талон'
     guaguale-purchase-cancel: Откажи
     guaguale-purchase-confirm: Купи
     guaguale-purchase-count: 'Закупени: {count} билета'
     guaguale-purchase-exceed-limit: 'Неуспешна покупка: превишаваш лимита за покупка'
+    guaguale-purchase-history: 'История на талоните'
     guaguale-purchase-input-placeholder: 'Моля въведи сумата, която искаш да купиш'
     guaguale-purchase-limit: 'Лимит на покупка:{limit} билети'
     guaguale-purchase-limit-none: 'Лимит за покупка: Няма'
     guaguale-purchase-money: 'Цена: '
+    guaguale-purchase-not-scratch-yet: 'Все още не е изтрито'
     guaguale-purchase-now: Купи
     guaguale-purchase-ok: ОК
+    guaguale-purchase-scratch: Търси
     guaguale-purchase-soldout: 'Съжалявам, този продукт е изчерпан'
     guaguale-purchase-success: 'Успешна покупка'
     guaguale-purchase-summary: 'Общо изразходван: {purchaseCostTotal} | Общо спечелен: {purchaseWinTotal}'
     guaguale-purchase-view-result: Виж
+    guaguale-purchased-user: '{purchaseUserName} купени {purchaseCount} и спечелени {purchaseWinTotal} билети'
+    guaguale-purchased-user-empty: 'Няма изтрити билети'
+    guaguale-receive-open-result: 'Отвори талон'
+    guaguale-scratch-it: Изтрий
+    guaguale-scratch-result: 'Резултат от изтриването: gained {money}'
     guaguale-unit-name: ' билети'
+    guaguale-view-history: 'История на покупките'
+    notifications:
+      guaguale-open-content: '[{guagualeTitle}] {guagualePurchaseCount} резултати от изтрити билети'
+      guaguale-win-total: 'Изхарчихте {costTotal} и спечелихте {winTotal} |ID на покупката: {purchaseID}'
+    purchase-error: 'Грешка при покупка'
+    purchase-error-insufficient-fund: 'Недостатъчна наличност'
+    purchase-error-not-enough-tickets: 'Няма достатъчно билети'
