@@ -6,3 +6,4 @@ ianm-syndication:
   forum:
     autodiscovery:
       forum_activity: 'Активност на форума'
+      forum_new_discussions: 'Нови дискусии във форума'
