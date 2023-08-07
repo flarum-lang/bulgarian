@@ -4,4 +4,5 @@
 
 first-visit-indexpage:
   forum:
+    alert-message: 'Моля приеми правилата за да продължиш'
     title: 'Правила на форум...'

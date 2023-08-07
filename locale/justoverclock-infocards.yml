@@ -5,3 +5,4 @@
 flarum-ext-infocards:
   forum:
     geninfo: 'Обща информация'
+    welcome_back: 'Здравей отново,'

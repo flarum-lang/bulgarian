@@ -6,3 +6,5 @@ justoverclock-discussion-tags:
   admin:
     permissions:
       canEditDiscussionTags: 'Може да се редактират тагове на дискусия'
+  forum:
+    dTags: 'Тагове на дискусия'
