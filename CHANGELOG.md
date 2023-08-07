@@ -263,6 +263,7 @@ CHANGELOG
 * [`justoverclock/first-visit-indexpage`](https://github.com/justoverclockl/first-visit-indexpage)
 * [`justoverclock/frontend-blog`](https://extiverse.com/extension/justoverclock/frontend-blog)
 * [`justoverclock/geo-weather`](https://github.com/justoverclockl/geo-weather)
+* [`justoverclock/flarum-ext-guestengagement`](https://github.com/justoverclockl/flarum-ext-guestengagement)
 * [`justoverclock/header-slideshow`](https://github.com/justoverclockl/header-slideshow)
 * [`justoverclock/hot-discussions-cards`](https://github.com/justoverclockl/hot-discussions-cards)
 * [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions)
