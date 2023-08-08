@@ -4,4 +4,5 @@
 
 flarum-ext-welcomebox:
   forum:
+    npost: '=> core.ref.posts'
     wback: 'Добре дошъл отново,'

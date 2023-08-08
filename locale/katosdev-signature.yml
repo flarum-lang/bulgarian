@@ -5,4 +5,5 @@
 signature:
   forum:
     buttons:
+      save: 'Запази подпис'
       signature: Подпис

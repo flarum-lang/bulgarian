@@ -5,3 +5,4 @@
 nearata-embed-twitch:
   admin:
     allowfullscreen: 'Позволи цял екран'
+    autoplay: Autoplay

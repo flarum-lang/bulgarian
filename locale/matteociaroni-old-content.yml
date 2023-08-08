@@ -5,3 +5,5 @@
 matteociaroni-old-content:
   admin:
     time_label: 'Дни за да се счита публикация за "стара"'
+  forum:
+    message: 🟡

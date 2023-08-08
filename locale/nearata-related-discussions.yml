@@ -6,3 +6,4 @@ nearata-related-discussions:
   admin:
     settings:
       allow_guests: 'Позволи гости'
+      generator: Generator

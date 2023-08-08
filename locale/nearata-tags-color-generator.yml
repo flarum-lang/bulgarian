@@ -5,3 +5,5 @@
 nearata-tags-color-generator:
   admin:
     color_luminosity_label: 'Яркост на цвета'
+    color_luminosity_options:
+      random: Случаен
