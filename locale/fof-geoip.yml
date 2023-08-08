@@ -5,6 +5,6 @@
 fof-geoip:
   admin:
     settings:
-      service_ipdata_label: IPData
-      service_ipstack_label: IPStack
-      title: 'FriendsOfFlarum GeoIP'
+      service_ipdata_label: '*IPData*'
+      service_ipstack_label: '*IPStack*'
+      title: '*FriendsOfFlarum GeoIP*'

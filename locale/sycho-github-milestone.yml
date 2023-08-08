@@ -5,4 +5,4 @@
 sycho-github-milestone:
   admin:
     default_filter: 'Филтър по подразбиране'
-    repository_example: 'example: flarum/core'
+    repository_example: 'например: flarum/core'

@@ -5,4 +5,4 @@
 core:
   lib:
     meta_titles:
-      with_page_title: '{pageNumber, plural, =1 {{pageTitle}} other {{pageTitle}: Page #}}'
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle}} other {{pageTitle}: Страница #}}'

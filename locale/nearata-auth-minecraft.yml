@@ -7,4 +7,4 @@ nearata-auth-minecraft:
     settings:
       minecraft_server:
         help: 'Пример: mydomain.tld'
-        label: 'Minecraft Server IP'
+        label: 'Minecraft Сървър ИП'

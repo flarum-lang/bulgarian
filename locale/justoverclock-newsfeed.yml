@@ -4,4 +4,4 @@
 
 flarum-ext-newsfeed:
   admin:
-    feedutltitle: 'Rss Feed URL'
+    feedutltitle: '*Rss Feed URL*'

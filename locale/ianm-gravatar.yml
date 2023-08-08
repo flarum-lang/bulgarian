@@ -8,4 +8,4 @@ ianm-gravatar:
       defaults:
         title: 'По подразбиране'
       proxy:
-        title: 'Proxy gravatars'
+        title: 'Прокси gravatars'

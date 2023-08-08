@@ -9,7 +9,7 @@ fof-drafts:
       start: 'Създай чернови'
     settings:
       enable_scheduled_drafts: 'Активирай Планирани Чернови'
-      schedule_on_one_server: 'Use ''onOneServer()'' directive for the task scheduler (requires Redis/Memcache)'
+      schedule_on_one_server: 'Използване на ''onOneServer()'' директива за планиране на задачи (изисква Redis/Memcache)'
       title: 'FoF Чернови'
   console:
     scheduled_drafts_disabled: 'Планирани чернови в момента са деактивирани в настройките.'

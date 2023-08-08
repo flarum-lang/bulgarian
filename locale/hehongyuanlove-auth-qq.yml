@@ -5,10 +5,10 @@
 hehongyuanlove-auth-qq:
   admin:
     qq_settings:
-      client_id_label: 'App ID'
+      client_id_label: 'App ИД'
       title: 'QQ Настройки'
   forum:
     buttons:
-      unlink: 'UnLink QQ'
+      unlink: '*UnLink QQ*'
     log_in:
       with_qq_button: QQ

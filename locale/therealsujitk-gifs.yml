@@ -4,7 +4,7 @@
 
 therealsujitk-gifs:
   admin:
-    apiKey: 'API Key'
+    apiKey: 'API Ключ'
     engine: Търсачка
     rating: 'Оценка на съдържанието / Филтър за съдържание'
   forum:

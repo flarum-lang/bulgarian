@@ -6,6 +6,6 @@ fof-passport:
   admin:
     popup:
       field:
-        app-auth-url: 'OAuth authorization URL'
-        app-id: 'OAuth application ID'
+        app-auth-url: 'oauth URL за оторизация'
+        app-id: 'Идентификатор на OAuth приложението'
         app-token-url: 'OAuth token URL'

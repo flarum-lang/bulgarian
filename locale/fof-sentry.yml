@@ -5,5 +5,5 @@
 fof-sentry:
   admin:
     settings:
-      dsn_backend_label: 'Sentry DSN (Backend Only)'
-      dsn_label: 'Sentry DSN'
+      dsn_backend_label: 'Sentry DSN (Само Backend)'
+      dsn_label: '*Sentry DSN*'

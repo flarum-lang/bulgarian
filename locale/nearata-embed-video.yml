@@ -6,5 +6,5 @@ nearata-embed-video:
   admin:
     settings:
       options:
-        airplay: Airplay
-        hotkey: Hotkey
+        airplay: '*Airplay*'
+        hotkey: 'Kлавишна комбинация'

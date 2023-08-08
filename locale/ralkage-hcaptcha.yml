@@ -5,4 +5,4 @@
 ralkage-hcaptcha:
   admin:
     settings:
-      secret_key_label: 'Secret Key'
+      secret_key_label: 'Таен ключ'

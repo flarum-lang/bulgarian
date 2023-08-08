@@ -6,7 +6,7 @@ nyu8-email-filter:
   admin:
     blacklist_literal:
       description: 'Точни имейли в blacklist-а'
-      label: Blacklist
+      label: '*Blacklist*'
       placeholder: 'Имейли в blacklist...'
     custom_failure_message_hint: 'Персонализирано съобщение за грешка, което показва, когато имейлът е невалиден. Ще покаже съобщения за грешка по подразбиране, ако това остане празно.'
     custom_failure_message_label: 'Персонализирано Съобщение за Грешка'
@@ -15,7 +15,7 @@ nyu8-email-filter:
     rule_settings: 'Настройки на правила'
     whitelist_literal:
       description: 'Точни имейли в whitelist'
-      label: Whitelist
+      label: '*Whitelist*'
       placeholder: 'Имейл в whitelist...'
   forum:
     blacklist_exception: 'Този имейл или неговият домейн е в blacklist-а на този форум.'

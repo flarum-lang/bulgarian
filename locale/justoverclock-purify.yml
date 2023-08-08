@@ -6,4 +6,4 @@ flarum-ext-purify:
   admin:
     hidemail: 'Автоматично скрий имейл адреса'
   forum:
-    obscure: '[Purified]'
+    obscure: '[Пречистен]'

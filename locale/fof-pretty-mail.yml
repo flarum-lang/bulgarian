@@ -16,7 +16,7 @@ fof-pretty-mail:
         forumStyle: 'Съдържа <strong>целия форум CSS</strong>'
         link: 'Създава връзка в самия имейл'
         settings: 'Позволява ти да въздействаш с SettingsRepositoryInterface'
-        url: 'Flarum''s <code>UrlGenerator</code>'
+        url: 'Flarum''s <code>Url Генератор</code>'
       attributes_label: 'Налични атрибути'
       confirm: 'Сигурен ли си, че искаш да се върнеш обратно към основния имейл шаблон за'
       default: 'Образец по подразбиране'
