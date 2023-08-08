@@ -4,5 +4,6 @@
 
 justoverclock-auto-post-badge-pro:
   admin:
+    levelFive: 'Ниво 5'
     levelOne: 'Ниво 1'
     levelTree: 'Ниво 3'

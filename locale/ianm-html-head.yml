@@ -8,3 +8,4 @@ ianm-html-head:
     table:
       active_label: Активен
       description_label: Описание
+      empty_text: 'Няма записи'

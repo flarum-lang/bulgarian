@@ -9,3 +9,5 @@ xsoft-mason-tag:
       save: 'Запази полета'
     discussion-controls:
       edit-answers: 'Редактирай полета'
+    post-answers:
+      no-answer: 'Без отговор'

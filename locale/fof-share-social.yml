@@ -7,4 +7,5 @@ fof-share-social:
     discussion:
       share_button: Сподели
     modal:
+      copy_button: Копирай
       title: Сподели

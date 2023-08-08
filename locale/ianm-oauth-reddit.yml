@@ -11,3 +11,5 @@ fof-oauth:
   forum:
     log_in:
       with_reddit_button: '=> fof-oauth.forum.log_in.with_button'
+    providers:
+      reddit: '=> fof-oauth.lib.providers.reddit'

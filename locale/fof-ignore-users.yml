@@ -9,3 +9,4 @@ fof-ignore-users:
   forum:
     user_controls:
       ignore_button: Игнорирай
+      ignore_confirmation: 'Сигурни ли си, че искаш да игнорираш този потребител?'

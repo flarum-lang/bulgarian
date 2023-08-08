@@ -6,3 +6,5 @@ glowingblue-localizd:
   admin:
     settings:
       redirect_en: 'Пренасочване на английски към езика по подразбиране на форума'
+    translation_key:
+      translate: Преведи

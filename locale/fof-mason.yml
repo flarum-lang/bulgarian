@@ -7,6 +7,8 @@ fof-mason:
     answers-modal:
       edit-title: 'Редактирай полета за {title}'
       save: 'Запази полета'
+    answers:
+      choose-option: 'Избери опция'
     discussion-controls:
       edit-answers: 'Редактирай полета'
     post-answers:

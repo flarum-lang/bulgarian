@@ -5,6 +5,7 @@
 clarkwinkelmann-who-read:
   forum:
     more:
+      info: 'И {count} повече'
       show: 'Покажи {count} още'
     tooltip:
       last-read-at: '{username} прочете {ago}'

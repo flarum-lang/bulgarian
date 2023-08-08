@@ -8,5 +8,7 @@ hehongyuanlove-auth-qq:
       client_id_label: 'App ID'
       title: 'QQ Настройки'
   forum:
+    buttons:
+      unlink: 'UnLink QQ'
     log_in:
       with_qq_button: QQ

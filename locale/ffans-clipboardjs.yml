@@ -8,4 +8,5 @@ ffans-clipboardjs:
       codeLang_label: 'Покажи език на кода'
       themes:
         cnblog: cnBlogs
+        csdn: CSDN
       themes_label: 'Стил на бутона за копиране'
