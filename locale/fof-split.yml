@@ -8,4 +8,5 @@ fof-split:
       split_discussion_label: 'Раздели публикации от дискусии'
   forum:
     post:
+      was_split_from: '{count, plural, one {{count} post was split from {target}.} other {{count} posts were split from {target}.}}'
       was_split_to: '{count, plural, one {{count} post was split to {target}.} other {{count} posts were split to {target}.}}'

@@ -6,5 +6,6 @@ fof-webhooks:
   actions:
     discussion:
       renamed:
+        description: 'Ново заглавие: {1}'
         title: 'Преименувана Дискусия `{1}`'
       started: 'Започна дискусия `{1}`'

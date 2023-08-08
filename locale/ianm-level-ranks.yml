@@ -6,3 +6,6 @@ ianm-level-ranks:
   forum:
     desc:
       expText: '{expTotal} EXP'
+  lib:
+    defaults:
+      level: Ниво

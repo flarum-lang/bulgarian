@@ -4,5 +4,6 @@
 
 first-visit-indexpage:
   forum:
+    accept-rules: 'Прочетох и приех тези правила'
     alert-message: 'Моля приеми правилата за да продължиш'
     title: 'Правила на форум...'

@@ -5,3 +5,4 @@
 justoverclock-frontend-blog:
   admin:
     numberOfPost: 'Брой публикации'
+    numberOfPost-help: 'Поставитук номера на публикацията, която искаш да покажеш'

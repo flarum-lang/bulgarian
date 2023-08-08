@@ -4,5 +4,6 @@
 
 justoverclock-discussion-info:
   forum:
+    createdAt: 'Създаден в'
     lastReadAt: 'Последно прочетено'
     participantCount: Участници

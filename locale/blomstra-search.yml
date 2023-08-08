@@ -7,6 +7,7 @@ blomstra-search:
     analyzer:
       label: 'Език на Анализатора'
     elastic-index: Индекс
+    elastic-password: '=> core.ref.password'
     elastic-username: '=> core.ref.username'
     search-discussion-subjects: 'Търси в заглавията на темите'
     search-post-bodies: 'Търси в коментарите'

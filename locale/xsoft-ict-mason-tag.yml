@@ -4,5 +4,7 @@
 
 xsoft-mason-tag:
   forum:
+    answers-modal:
+      edit-title: 'Редактирай полета за {title}'
     discussion-controls:
       edit-answers: 'Редактирай полета'

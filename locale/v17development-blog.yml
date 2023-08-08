@@ -5,3 +5,5 @@
 v17development-flarum-blog:
   admin:
     blog: Блог
+    permissions:
+      write_articles: 'Пиши и редактирай статии за блога'

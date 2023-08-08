@@ -5,4 +5,5 @@
 fof-geoip:
   admin:
     settings:
+      service_ipstack_label: IPStack
       title: 'FriendsOfFlarum GeoIP'

@@ -6,4 +6,5 @@ expired-posts:
   forum:
     composer:
       warning:
+        description: 'Публикацията е изтекла.'
         title: 'Изтекла публикация'

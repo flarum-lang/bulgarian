@@ -5,3 +5,4 @@
 justoverclock-be-active-user-indicator:
   admin:
     activeUI: 'Активиран ли е профилът?'
+    notActive: Неактивен

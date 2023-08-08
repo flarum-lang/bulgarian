@@ -4,5 +4,6 @@
 
 justoverclock-edit-posts:
   forum:
+    deleteforever: 'Изтрий Завинаги'
     editpost: Редактирай
     hidepost: 'Скрий публикация'
