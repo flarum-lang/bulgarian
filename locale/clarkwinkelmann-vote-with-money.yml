@@ -16,6 +16,8 @@ clarkwinkelmann-vote-with-money:
       notEnoughFunds: 'Няма достатъчно средства.'
   forum:
     poll:
+      max: 'Максимален залог (по избор)'
+      min: 'Минимален залог (по избор)'
       voteWithMoney: 'Гласувай с пари'
     vote:
       balance: 'Твоят баланс: {amount}'
@@ -24,4 +26,5 @@ clarkwinkelmann-vote-with-money:
       optionCustom: Персонализиран
       submit: Подай
       success: 'Гласът беше подаден!'
+      target: "Потвърдете обещанието си за опцията за гласуване \"{answer}\". Няма да можете да промените гласа си по-късно.\n"
       title: 'Потвърди глас'

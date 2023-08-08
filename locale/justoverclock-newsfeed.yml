@@ -4,4 +4,5 @@
 
 flarum-ext-newsfeed:
   admin:
+    feedurldesc: 'поставете тук валиден URL адрес на вашия Rss канал'
     feedutltitle: '*Rss Feed URL*'

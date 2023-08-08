@@ -8,3 +8,5 @@ justoverclock-discussion-tags:
       canEditDiscussionTags: 'Може да се редактират тагове на дискусия'
   forum:
     dTags: 'Тагове на дискусия'
+    tagHere: 'Маркирайте тук'
+    tagSaved: 'Тага е запазен успешно!'

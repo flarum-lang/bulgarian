@@ -8,6 +8,7 @@ flarumite:
       post:
         accordion:
           tooltips:
+            closed: 'Кликнете, за да разкриете'
             open: 'Натисни за да скриеш'
         spoiler:
           closed: 'Кликни, за да разкриеш'

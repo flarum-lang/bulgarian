@@ -3,5 +3,8 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-ext-pwgen:
+  admin:
+    passlenght: 'Дължина на паролата'
+    pwhelp: 'Въведете дължината на вашата защитена парола'
   forum:
-    generatebtn: 'Генерирай сигурна парола'
+    generatebtn: 'Генериране на сигурна парола'

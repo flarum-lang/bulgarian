@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 fof-secure-https:
+  admin:
+    settings:
+      replace: 'Прокси изображения чрез HTTPS'
   forum:
     removed: 'Изображението е премахнато поради липса на поддръжка за HTTPS.'
     show: 'Покажи все пак'

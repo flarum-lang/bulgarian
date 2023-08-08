@@ -20,6 +20,8 @@ fof-subscribed:
     subject:
       newDiscussion: '[Абониран | Нова дискусия] {title}'
       newUser: '[Абониран | Нов потребител] {username}'
+      postCreated: '[Абониран | Нова публикация] {username} написа нова публикация в {title}'
+      postFlagged: '[Абониран | Нов флаг] {username} маркира публикация в {title}'
       postUnapproved: '[Абониран | Неодобрен] {username} публикувано в {title}'
   forum:
     notifications:

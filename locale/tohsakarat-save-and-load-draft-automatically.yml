@@ -4,5 +4,8 @@
 
 tohsakarat-save-and-load-draft-automatically:
   forum:
+    buttons:
+      load: 'Заредете локални записи за редактиране'
     states:
+      ask-for-load: 'Намерете локални записи за редактиране! Искате ли да ги заредите?'
       ask-for-save: 'Искаш ли да запазиш чернови онлайн?'

@@ -21,11 +21,12 @@ ziven-guaguale:
     guaguale-edit: 'Редактирай талона'
     guaguale-unit-name: ' билети'
     settings:
-      guaguale-display-name: Име
+      guaguale-display-name: 'Показвано Име'
       guaguale-display-name-default: Талон
       guaguale-item-activated: Активирано
       guaguale-item-amount: Стойност
       guaguale-item-background: Фон
+      guaguale-item-background-placeholder: 'Въведете URL на фоновото изображение на томболата. пример: http://www.abc.com/example.png'
       guaguale-item-color: Цвят
       guaguale-item-color-background: 'Цвят/Фон (Опционално. Оставете празно, за да използвате произволен цвят за фон)'
       guaguale-item-color-placeholder: 'Въведете цвят за фон на серията. пример: #999999'

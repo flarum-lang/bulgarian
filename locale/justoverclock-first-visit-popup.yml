@@ -5,3 +5,5 @@
 justoverclock-first-visit-popup:
   admin:
     CookieExp: 'Време на изтичане на бисквитката (в часове)'
+    modalContent: 'Модално съдържание (HTML)'
+    modalTitle: 'Модално заглавие'

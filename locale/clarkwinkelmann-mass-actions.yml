@@ -14,12 +14,15 @@ clarkwinkelmann-mass-actions:
       lock: 'Заключи избраното'
       markAsRead: 'Отбележи избраното като прочетено'
       restore: 'Възстанови избраното'
+      sticky: 'Sticky избрано'
       tags: Тагове
       tags-add: 'Добави <em>{tag}</em>'
       tags-edit: 'Редактирай тагове'
       unlock: 'Отключи избраното'
+      unsticky: 'Unsticky избрано'
     select:
       all: Всички
+      hidden: 'Soft изтрито'
       locked: Заключено
       none: 'Нито един'
       read: Прочети

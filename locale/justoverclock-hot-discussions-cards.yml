@@ -4,5 +4,5 @@
 
 justoverclock-hot-discussion-cards:
   forum:
-    hot: TOP!
+    hot: ТОП!
     post: '{count, plural, one {ПУБЛИКАЦИЯ} other {ПУБЛИКАЦИИ}}'

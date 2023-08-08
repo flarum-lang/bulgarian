@@ -4,5 +4,9 @@
 
 tokenjenny-web3:
   forum:
+    log_in:
+      with_metamask_button: 'Влезте с MetaMask'
     settings:
       connect_button: 'Свържи се с MetaMask'
+      connected: 'Свързан <strong>{account}</strong>'
+      privacy_disclose_web3_address_label: 'Позволете на другите да видят адреса на портфейла ми'

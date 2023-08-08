@@ -7,6 +7,10 @@ therealsujitk-gifs:
     apiKey: 'API Ключ'
     engine: Търсачка
     rating: 'Оценка на съдържанието / Филтър за съдържание'
+    ratingHigh: '*G / High*'
+    ratingLow: '*PG-13 / Low*'
+    ratingMedium: '*PG / Medium*'
+    ratingOff: '*R / Off*'
   forum:
     addFavourite: 'Добави към Любими'
     favourites: Любими

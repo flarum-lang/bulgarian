@@ -5,6 +5,7 @@
 datlechin-more-discussions:
   admin:
     settings:
+      block_name_help: 'Името на блока (по подразбиране <code>Последни дискусии</code>)'
       block_name_label: 'Блокирай име'
       discussion_limit_help: 'Брй дискусии за показване (default <code>5</code>)'
       discussion_limit_label: 'Лимит на Дискусията'

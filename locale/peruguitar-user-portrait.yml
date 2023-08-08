@@ -5,3 +5,6 @@
 peruguitar-user-portrait:
   admin:
     exclude_from_mobile_help: 'Изключване на потребителски портрет от мобилни устройства'
+    exclude_from_mobile_label: 'Изключване от мобилни устройства?'
+  forum:
+    welcome_back_label: 'Добре дошъл обратно'

@@ -3,5 +3,8 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 justoverclock-best-answer-badge:
+  admin:
+    minimumBa: 'Мин. най-добър отговор за показване на значка'
+    minimumBa-help: 'поставете минималния най-добър отговор, който потребителят трябва да има, за да спечели значката'
   forum:
     bestAnswer: 'Най-добрите получени отговори'

@@ -4,6 +4,7 @@
 
 malago-fancybox:
   forum:
+    close: Затвори
     error: 'Исканото съдържание не може да бъде заредено.'
     next: Следващ
     prev: Предходен

@@ -5,6 +5,8 @@
 nomiscz-auth-wechat:
   admin:
     settings:
+      api_app_id: 'API App ИД'
+      api_app_secret: 'API App Парола'
       title: 'Настройки за удостоверяване на WeChat'
   forum:
     alerts:
@@ -26,4 +28,5 @@ nomiscz-auth-wechat:
           confirm: 'Да, премахвани връзката с акаунта'
         info:
           confirm: 'Сигурни ли сте, че искате да премахнете връзката с профила си в WeChat?'
+          no_providers: 'Нямате други опции за вход! Вероятно ще трябва да нулирате паролата си.'
         title: 'Премахване на връзката с WeChat Профила'

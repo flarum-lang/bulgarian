@@ -9,6 +9,7 @@ fof-drafts:
       start: 'Създай чернови'
     settings:
       enable_scheduled_drafts: 'Активирай Планирани Чернови'
+      schedule_log_output: 'Добавете scheduler към хранилището на логовете'
       schedule_on_one_server: 'Използване на ''onOneServer()'' директива за планиране на задачи (изисква Redis/Memcache)'
       title: 'FoF Чернови'
   console:
@@ -28,14 +29,14 @@ fof-drafts:
       empty_text: 'Не сте запазили никакви чернови'
       schedule_button: '=> fof-drafts.ref.schedule_draft'
       scheduled_icon_tooltip: 'Планиран за {datetime}'
-      scheduled_icon_tooltip_formatter: 'L [at] LT'
+      scheduled_icon_tooltip_formatter: '*L [at] LT*'
       title: Чернови
       tooltip: '=> fof-drafts.forum.dropdown.title'
     schedule_draft_modal:
       reschedule_button: 'Планирай отново'
       schedule_button: Планирай
       schedule_time_preview: 'Тази чернова ще бъде автоматично публикувана на <b>{datetime}</b>.'
-      schedule_time_preview_formatter: LLLL
+      schedule_time_preview_formatter: '*LLLL*'
       schedule_time_preview_invalid: 'Невалидна дата и/или час'
       scheduled_error: 'Невъзможно да се планира чернова: {error}.'
       scheduled_text: 'Към момента планиран да се публикува в {datetime}.'

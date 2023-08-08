@@ -8,3 +8,4 @@ justoverclock-popular-tags:
     limit-help: 'Постави тук максималния брой тагове, които искаш да се показват'
   forum:
     count: 'Общо теми: '
+    widgetTitle: 'Популярни тагове'
