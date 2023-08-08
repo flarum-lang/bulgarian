@@ -6,4 +6,5 @@ maicol07-oidc-client:
   admin:
     settings:
       client:
+        secret: 'Таен клиент'
         title: 'Настройки на клиента'

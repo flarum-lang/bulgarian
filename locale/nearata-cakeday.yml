@@ -7,4 +7,5 @@ nearata-cakeday:
     permissions:
       can_view_anniversaries_page: 'Виж страница с годишнини'
     settings:
+      anniversaries_page_label: 'Активиране на страницата за годишнини'
       general_section_title: Общ

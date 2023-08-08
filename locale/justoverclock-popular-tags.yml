@@ -6,3 +6,5 @@ justoverclock-popular-tags:
   admin:
     limit: 'Брой показани тагове'
     limit-help: 'Постави тук максималния брой тагове, които искаш да се показват'
+  forum:
+    count: 'Общо теми: '

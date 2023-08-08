@@ -8,4 +8,5 @@ fof-masquerade:
       profile-completed: 'Завършен профил! <a>Премини към начална страница</a>'
       profile-completion-required: "Моля, попълни необходимите полета на профила по-долу.\n"
     buttons:
+      edit-profile: 'Редактирай профил'
       view-profile: 'Виж профил'

@@ -7,3 +7,6 @@ hehongyuanlove-auth-qq:
     qq_settings:
       client_id_label: 'App ID'
       title: 'QQ Настройки'
+  forum:
+    log_in:
+      with_qq_button: QQ

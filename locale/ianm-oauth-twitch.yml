@@ -8,3 +8,6 @@ fof-oauth:
       providers:
         twitch:
           description: 'Регистрирай твоя форум с Twitch {link}'
+  forum:
+    log_in:
+      with_twitch_button: '=> fof-oauth.forum.log_in.with_button'

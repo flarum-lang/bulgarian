@@ -4,4 +4,6 @@
 
 flamarkt-backoffice:
   backoffice:
+    nav:
+      users: Потребители
     settingsNotAvailableForNonAdmin: 'Това разширение има настройки, но само администраторски акаунти могат да ги виждат и редактират.'

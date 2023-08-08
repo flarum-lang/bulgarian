@@ -5,3 +5,5 @@
 justoverclock-imdb-api:
   admin:
     apiKeyTitle: 'Api Key (url)'
+  forum:
+    fullinfoAt: 'Пълна информация в IMDb'

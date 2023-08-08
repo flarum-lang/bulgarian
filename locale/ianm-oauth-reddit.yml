@@ -8,3 +8,6 @@ fof-oauth:
       providers:
         reddit:
           description: 'Регистрирай твоя форум с Reddit {link}'
+  forum:
+    log_in:
+      with_reddit_button: '=> fof-oauth.forum.log_in.with_button'

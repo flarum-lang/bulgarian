@@ -8,3 +8,6 @@ fof-oauth:
       providers:
         line:
           description: 'Регистрирай твоя форум с LINE Developers Console {link}'
+  forum:
+    log_in:
+      with_line_button: '=> fof-oauth.forum.log_in.with_button'

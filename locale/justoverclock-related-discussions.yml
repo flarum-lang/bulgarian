@@ -5,3 +5,4 @@
 justoverclock-related-discussions:
   admin:
     relatedLimit: 'Свързани дискусии за показване (по подразбиране 4)'
+    relatedTitle: 'Заглавие за „Свързани дискусии“'

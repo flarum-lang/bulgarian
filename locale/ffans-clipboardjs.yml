@@ -6,4 +6,6 @@ ffans-clipboardjs:
   admin:
     settings:
       codeLang_label: 'Покажи език на кода'
+      themes:
+        cnblog: cnBlogs
       themes_label: 'Стил на бутона за копиране'

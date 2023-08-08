@@ -6,4 +6,5 @@ v17development-flarum-blog:
   admin:
     blog: Блог
     permissions:
+      approve_posts: 'Може да одобрява блог статии'
       write_articles: 'Пиши и редактирай статии за блога'

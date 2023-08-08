@@ -5,3 +5,5 @@
 justoverclock-steam-api:
   admin:
     steamApiKey: 'Steam Api Key'
+  forum:
+    steamIdSaved: 'Steam id успешно запазено'

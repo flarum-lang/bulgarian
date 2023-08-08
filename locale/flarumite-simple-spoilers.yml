@@ -6,6 +6,9 @@ flarumite:
   spoilers-and-accordions:
     forum:
       post:
+        accordion:
+          tooltips:
+            open: 'Натисни за да скриеш'
         spoiler:
           closed: 'Кликни, за да разкриеш'
           open: 'Натисни да скриеш'

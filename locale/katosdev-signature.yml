@@ -7,3 +7,6 @@ signature:
     buttons:
       save: 'Запази подпис'
       signature: Подпис
+    modal:
+      loading:
+        content: 'Моля изчакай...'

@@ -7,3 +7,5 @@ nearata-related-discussions:
     settings:
       allow_guests: 'Позволи гости'
       generator: Generator
+      generator_options:
+        title: 'По заглавие'

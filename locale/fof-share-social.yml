@@ -6,3 +6,5 @@ fof-share-social:
   forum:
     discussion:
       share_button: Сподели
+    modal:
+      title: Сподели

@@ -7,3 +7,4 @@ fof-prevent-necrobumping:
     composer:
       warning:
         checkbox_label: 'Наясно съм, че тази дискусия е доста стара, но все пак бих искал да отговоря.'
+        error: 'Тази дискусия е твърде стара за отговор.'

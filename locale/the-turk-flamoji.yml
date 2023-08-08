@@ -7,3 +7,4 @@ the-turk-flamoji:
     settings:
       category_settings_heading: 'Настройки на Категория'
       emoji_settings_heading: 'Emoji Настройки'
+      show_variants_label: 'Покажи варианти'

@@ -7,3 +7,4 @@ tohsakarat-tags-filter:
     index_page:
       filter_tags:
         all: всички
+        search_label: Търси...

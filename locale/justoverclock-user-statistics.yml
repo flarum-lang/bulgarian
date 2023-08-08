@@ -5,3 +5,4 @@
 justoverclock-user-statistics:
   forum:
     joinTime: 'Дата на регистрация'
+    likeReceived: 'Получено харесване'

@@ -4,5 +4,7 @@
 
 kyrne-whisper:
   admin:
+    permissions:
+      start_label: 'Започни лични разговори'
     settings:
       title: 'Whisper Настройки'

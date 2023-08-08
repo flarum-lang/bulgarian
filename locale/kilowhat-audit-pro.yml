@@ -4,5 +4,7 @@
 
 kilowhat-audit:
   admin:
+    header:
+      free: Свободен
     permissions:
       viewLimited: 'Преглед на ограничен одит лог'

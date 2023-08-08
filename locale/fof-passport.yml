@@ -7,4 +7,5 @@ fof-passport:
     popup:
       field:
         app-auth-url: 'OAuth authorization URL'
+        app-id: 'OAuth application ID'
         app-token-url: 'OAuth token URL'

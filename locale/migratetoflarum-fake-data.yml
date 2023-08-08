@@ -6,3 +6,4 @@ migratetoflarum-fake-data:
   lib:
     generator:
       bulk-mode-description: 'Генерира една произволна стойност и я използва повторно за всеки запис'
+      discussion-count: 'Брой дискусии за създаване'

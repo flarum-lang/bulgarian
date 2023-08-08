@@ -6,3 +6,6 @@ fof-ignore-users:
   admin:
     permissions:
       can_not_be_ignored_label: 'Не може да се пренебрегне'
+  forum:
+    user_controls:
+      ignore_button: Игнорирай

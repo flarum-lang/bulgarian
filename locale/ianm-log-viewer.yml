@@ -6,3 +6,5 @@ ianm-log-viewer:
   admin:
     settings:
       purge-days: 'Изчисти регистрационните файлове след дни'
+    viewer:
+      available_logs_heading: 'Налични файлове'

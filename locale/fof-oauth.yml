@@ -5,4 +5,6 @@
 fof-oauth:
   admin:
     configure_button_label: 'Конфигурирай с FoF OAuth'
+    settings:
+      update_email_from_provider_label: 'Актуализирай имейл адреса от доставчика'
     settings_accessibility_label: '{name} настройки'

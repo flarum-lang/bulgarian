@@ -6,4 +6,5 @@ ianm-html-head:
   admin:
     create_button: Създай
     table:
+      active_label: Активен
       description_label: Описание
