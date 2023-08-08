@@ -37,15 +37,28 @@ fof-best-answer:
       show_max_lines_label: 'Максимален брой редове, които да се показват в преглед на пост'
       use_alt_ui: 'Алтернативен формат'
       use_alt_ui_help: 'Контроли за най-добър отговор във футъра на публикацията'
+  email:
+    body:
+      awarded: "Здравей {recipient_display_name},\n\nСтрахотна работа, {actor_display_name} току-що определи твоята публикацията като най-добрия отговор в дискусията: {discussion_title}. Благодаря за помощта.\n\nВиж го тук: {discussion_url}\n"
+      ba-set: "Здравей {recipient_display_name},\n\n{actor_display_name} даде най-добрият отговор в дискусията: {discussion_title}, в която участвахте.\n\nВижте го: {discussion_url}\n"
+      select: "Здравей, {recipient_display_name},\n\nСамо отбелязвам; вече трябва да имате много отговори на въпроса си: {discussion_title}. Надяваме се, че някой от тях ви е помогнал да решите проблема си.\n\nАко е така, би било наистина полезно за бъдещите членове, ако можете да отбележите най-добрия отговор на вашия въпрос. Това ще помогне на хората със същия проблем да намерят отговора, от който се нуждаят, и също така е голяма признателност към членовете, които са ви помогнали. Те отделят времето си доброволно, така че е хубаво да знаят, че се справят добре.\n\nПосетете дискусията тук: {discussion_url} и изберете най-подходящата публикация като най-добър отговор.\n\nБлагодаря!\n"
+    subject:
+      awarded: 'Вашата публикация беше зададена като най-добър отговор от 1{display_name}'
+      ba-set: 'Най-добрият отговор е зададен от {display_name}'
+      select: 'Успяхте ли да получите отговор на въпроса си?'
   forum:
     answered_badge: Отговорено
     best_answer_button: 'Най-добрият отговор'
     best_answer_label: 'зададено от <a>{username}</a> {time_set}'
+    composer:
+      titlePlaceholder: 'Заглавие на въпроса'
     errors:
       mismatch: 'Избраната публикация не съществува в тази дискусия.'
     filter:
+      accessible_label: 'Решен/Нерешен избор'
       all_label: 'Всички въпроси'
       solved_label: 'Решени въпроси'
+      unsolved_label: 'Нерешени въпроси'
     index:
       ask_question: 'Задай въпрос'
       cannot_ask_question: 'Не мога да задам въпрос'
@@ -61,3 +74,10 @@ fof-best-answer:
         select_best_answer: 'Автоматично напомняне за избор на най-добър отговор в дискусия, която започнах'
     remove_best_answer: 'Премахнете отметката от най-добрия отговор'
     this_best_answer: 'Изберете Най-добият отговор'
+    user:
+      best-answer-count: '{count, plural, one { {count} best answer} other {{count} best answers}}'
+fof-user-directory:
+  lib:
+    sort:
+      least_best_answers: 'Най-малко от най-добрите отговори'
+      most_best_answers: 'Повечето най-добри отговори'
