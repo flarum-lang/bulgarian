@@ -4,5 +4,18 @@
 
 the-turk-stickiest:
   admin:
+    permissions:
+      super_sticky_discussions_label: 'Много важни дискусии'
+      tag_sticky_discussions_label: 'Отбележи важни дискусии'
     settings:
       badge_icon_text: '=> core.ref.icon_text'
+      display_tag_sticky_text: 'Ще бъдат третирани, като обикновенни дискусии и няма да бъдат закачени най-отгоре.'
+  forum:
+    badge:
+      sticky_tooltip: '=> the-turk-stickiest.ref.sticky'
+      super_sticky_tooltip: '=> the-turk-stickiest.ref.super_sticky'
+      super_tag_sticky_tooltip: '=> the-turk-stickiest.ref.super_tag_sticky'
+      tag_sticky_tooltip: '=> the-turk-stickiest.ref.tag_sticky'
+    stickiest_modal:
+      sticky_label: '=> flarum-sticky.ref.sticky'
+      title: 'Важна {title}'
