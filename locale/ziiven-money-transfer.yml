@@ -5,4 +5,5 @@
 ziven-transfer-money:
   forum:
     transfer-list-empty: 'Историята за трансфер е празна'
+    transfer-list-id: ID
     transfer-list-load-more: 'Зареди още'

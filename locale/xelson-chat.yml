@@ -6,3 +6,5 @@ xelson-chat:
   forum:
     index:
       chat_link: Чат
+    toolbar:
+      title: Чат

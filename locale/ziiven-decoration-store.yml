@@ -4,5 +4,6 @@
 
 ziven-decoration-store:
   lib:
+    cancel: Откажи
     close: Затвори
     confirm: Потвърди

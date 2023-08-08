@@ -6,5 +6,6 @@ xsoft-mason-tag:
   forum:
     answers-modal:
       edit-title: 'Редактирай полета за {title}'
+      save: 'Запази полета'
     discussion-controls:
       edit-answers: 'Редактирай полета'

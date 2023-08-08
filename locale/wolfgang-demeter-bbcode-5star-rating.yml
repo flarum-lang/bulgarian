@@ -7,3 +7,5 @@ flarum-ext-bbcode-5star-rating:
     button:
       label: 'Рейтинг 5 звезди'
       tooltip: 'избери рейтинг с 5 звезди'
+    modal:
+      headline: 'Избери твоята оценка'

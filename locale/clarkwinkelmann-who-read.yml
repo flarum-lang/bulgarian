@@ -4,6 +4,8 @@
 
 clarkwinkelmann-who-read:
   forum:
+    more:
+      show: 'Покажи {count} още'
     tooltip:
       last-read-at: '{username} прочете {ago}'
       last-read-at-behind: '{username} последно прочете {ago} и има да навакса'

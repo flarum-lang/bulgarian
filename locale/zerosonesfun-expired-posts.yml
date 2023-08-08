@@ -7,4 +7,5 @@ expired-posts:
     composer:
       warning:
         description: 'Публикацията е изтекла.'
+        error: 'Тази дискусия е изтекла.'
         title: 'Изтекла публикация'

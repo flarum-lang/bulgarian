@@ -6,4 +6,5 @@ webbinaro-age-check:
   admin:
     labels:
       buttons:
+        yes_default: Да
         yes_help: 'Обикновено "Enter" или "Yes"'
