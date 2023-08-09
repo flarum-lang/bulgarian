@@ -3,6 +3,8 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 jslirola-login2seeplus:
+  admin:
+    hide: Скрий
   forum:
     image: 'Влез, за да видиш изображението'
     post: 'Трябва да се {login} или {register} за да видиш цялата публикация'

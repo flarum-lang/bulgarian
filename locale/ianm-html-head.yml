@@ -8,4 +8,5 @@ ianm-html-head:
     table:
       active_label: Активен
       description_label: Описание
+      edit_button: Редактирай
       empty_text: 'Няма записи'

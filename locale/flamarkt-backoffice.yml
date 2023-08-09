@@ -8,3 +8,5 @@ flamarkt-backoffice:
       searchPlaceholder: '=> core.admin.nav.search_placeholder'
       users: Потребители
     settingsNotAvailableForNonAdmin: 'Това разширение има настройки, но само администраторски акаунти могат да ги виждат и редактират.'
+    users:
+      new: 'Създай потребител'

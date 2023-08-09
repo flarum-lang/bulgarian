@@ -4,5 +4,7 @@
 
 fof-gamification:
   forum:
+    ranking:
+      name: Потребител
     vote_title: 'Покажи кой е гласувал'
     votes: Гласове

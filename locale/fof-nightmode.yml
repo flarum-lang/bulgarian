@@ -8,6 +8,7 @@ fof-nightmode:
       modal:
         always_show_theme_toggle_on_header: 'Показвай бутона за превключване на тема в заглавната лента на форума'
         default_theme: 'Тема на форума по подразбиране'
+        theme_auto: '=> fof-nightmode.ref.auto'
   ref:
     auto: 'Автоматичен (базиран на опции на браузър или устройство)'
     dark: 'Нощен Режим'

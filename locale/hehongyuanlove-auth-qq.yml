@@ -9,6 +9,7 @@ hehongyuanlove-auth-qq:
       title: 'QQ Настройки'
   forum:
     buttons:
+      login: '=> hehongyuanlove-auth-qq.forum.log_in.with_qq_button'
       unlink: '*UnLink QQ*'
     log_in:
       with_qq_button: QQ

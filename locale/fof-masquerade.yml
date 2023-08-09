@@ -11,3 +11,6 @@ fof-masquerade:
       edit-profile: 'Редактирай профил'
       save-profile: Запази
       view-profile: 'Виж профил'
+    fields:
+      select:
+        none-required: 'Моля, избери опция (задължително)'

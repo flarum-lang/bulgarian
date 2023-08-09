@@ -5,3 +5,4 @@
 ziven-money-leaderboard:
   forum:
     leaderboard-list-user: Потребител
+    leaderboard-load-more: 'Зареди още'

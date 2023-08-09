@@ -8,3 +8,5 @@ ianm-translate:
       deepl:
         api_key:
           label: '=> ianm-translate.lib.settings.api-key'
+        en_choice:
+          label: 'Английска версия'

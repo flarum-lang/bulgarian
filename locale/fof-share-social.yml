@@ -9,3 +9,6 @@ fof-share-social:
     modal:
       copy_button: Копирай
       title: Сподели
+  lib:
+    networks:
+      twitter: Twitter

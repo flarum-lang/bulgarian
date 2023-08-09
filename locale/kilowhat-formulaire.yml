@@ -6,3 +6,9 @@ kilowhat-formulaire:
   admin:
     permissions:
       seeOwnUser: '=> kilowhat-formulaire.ref.permissions.seeOwnUser'
+  ref:
+    submission-meta:
+      created_at: 'Дата на създаване'
+      updated_at: 'Дата на актуализиране'
+      user_email: 'Потребителски имейл'
+      user_username: 'Потребителско име'

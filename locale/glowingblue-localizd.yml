@@ -8,3 +8,6 @@ glowingblue-localizd:
       redirect_en: 'Пренасочване на английски към езика по подразбиране на форума'
     translation_key:
       translate: Преведи
+  forum:
+    errors:
+      causes: 'Това може да се дължи на една или повече от следните причини'

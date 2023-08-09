@@ -4,6 +4,7 @@
 
 flarum-ext-contactme:
   forum:
+    backsoon: 'ще се свържем с теб скоро'
     messagesent: 'Изпратено съобщение!'
     title: 'Свържи се с нас'
   settings:

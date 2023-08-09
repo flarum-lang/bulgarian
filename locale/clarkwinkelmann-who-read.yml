@@ -4,6 +4,8 @@
 
 clarkwinkelmann-who-read:
   forum:
+    footer:
+      read-no-further: '{count, plural, =0 {Everybody read further} one {One user did not read further} other {# did not read further}}'
     more:
       info: 'И {count} повече'
       show: 'Покажи {count} още'

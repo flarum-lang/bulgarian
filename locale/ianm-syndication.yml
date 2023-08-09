@@ -8,3 +8,6 @@ ianm-syndication:
       discussion_last_posts: 'Тази дискусия'
       forum_activity: 'Активност на форума'
       forum_new_discussions: 'Нови дискусии във форума'
+    feeds:
+      titles:
+        main_subtitle: 'Последни публикации във форума'

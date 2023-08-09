@@ -7,6 +7,8 @@ fof-split:
     permissions:
       split_discussion_label: 'Раздели публикации от дискусии'
   forum:
+    modal:
+      new_discussion_label: 'Посочи заглавието на новата дискусия'
     post:
       was_split_from: '{count, plural, one {{count} публикацията беше разделена от {target}.} other {{count} публикации бяха разделени от {target}.}}'
       was_split_to: '{count, plural, one {{count} публикацията беше разделена на {target}.} other {{count} публикациите бяха разделени на {target}.}}'

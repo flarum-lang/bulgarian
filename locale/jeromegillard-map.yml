@@ -4,5 +4,8 @@
 
 jeromegillard-map:
   admin:
+    settings:
+      style:
+        label: 'Стил по подразбиране за {provider}'
     templates:
       map: Карта

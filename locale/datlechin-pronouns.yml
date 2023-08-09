@@ -7,3 +7,6 @@ datlechin-pronouns:
     settings:
       icon_help: 'Активирай тази опция, за да показваш икона вместо текст преди местоименията на потребителя.'
       prefix_help: 'Този текст ще се показва преди местоименията на потребителя. Оставеи празно, за да не се показва нищо.'
+  forum:
+    change_pronouns:
+      submit_button: '=> core.ref.save_changes'
