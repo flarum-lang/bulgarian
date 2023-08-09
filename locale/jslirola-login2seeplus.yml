@@ -8,3 +8,4 @@ jslirola-login2seeplus:
   forum:
     image: 'Влез, за да видиш изображението'
     post: 'Трябва да се {login} или {register} за да видиш цялата публикация'
+    post_login: 'Трябва да {login}, за да видиш цялата публикация'

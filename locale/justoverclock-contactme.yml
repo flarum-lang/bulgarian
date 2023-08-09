@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 flarum-ext-contactme:
+  admin:
+    settings:
+      emaillabel: 'Имейл, на който ще бъде изпратена контактната форма'
   forum:
     backsoon: 'ще се свържем с теб скоро'
     messagesent: 'Изпратено съобщение!'

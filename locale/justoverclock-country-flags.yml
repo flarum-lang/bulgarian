@@ -5,5 +5,6 @@
 justoverclock-country-flags:
   admin:
     countryColumn: Държава
+    showFlagsOnPosts: 'Показване на флагове на публикации'
   forum:
     saveButton: Запази
