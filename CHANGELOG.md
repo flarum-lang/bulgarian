@@ -387,6 +387,7 @@ CHANGELOG
 * [`xrh0905/oauth-microsoft`](https://github.com/xrh0905/flarum-ext-oauth-microsoft)
 * [`xsoft-ict/mason-tag`](https://github.com/xsoft-ict/fof-mason-tag)
 * [`zerosonesfun/expired-posts`](https://github.com/zerosonesfun/expired-posts)
+* [`ziiven/flarum-daily-check-in`](https://github.com/Ziiven/flarum-daily-check-in)
 * [`ziiven/flarum-decoration-store`](https://extiverse.com/extension/ziiven/flarum-decoration-store)
 * [`ziiven/flarum-money-leaderboard`](https://github.com/Ziiven/flarum-money-leaderboard)
 * [`ziiven/money-transfer`](https://github.com/Ziiven/ziven-money-transfer)
