@@ -8,3 +8,4 @@ tohsakarat-tags-filter:
       filter_tags:
         all: всички
         search_label: Търси...
+        start_typing: 'Започни да пишеш...'

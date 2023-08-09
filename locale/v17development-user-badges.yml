@@ -5,4 +5,5 @@
 v17development-flarum-badges:
   admin:
     create_category: 'Създай категория'
+    edit_category: 'Редактирай категория'
     uncategorized: Некатегоризиран

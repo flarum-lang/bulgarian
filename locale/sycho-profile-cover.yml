@@ -5,3 +5,5 @@
 sycho-profile-cover:
   admin:
     max_size: 'Максимален размер на корицата на профила (в KB)'
+  forum:
+    notice: 'Максимален размер: {size}'

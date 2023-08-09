@@ -5,3 +5,4 @@
 nearata-minecraft-avatars:
   forum:
     submit_button: 'Запази промени'
+    username_not_found: 'Не е открито потребителско име.'

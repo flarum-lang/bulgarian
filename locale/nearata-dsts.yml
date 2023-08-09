@@ -6,3 +6,5 @@ nearata-dsts:
   admin:
     permissions:
       can_bypass_reply: 'Може да заобиколи отговора'
+    settings:
+      hide_only_first_post: 'Скрий само първия пост'
