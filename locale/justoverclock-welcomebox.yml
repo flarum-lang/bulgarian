@@ -4,6 +4,7 @@
 
 flarum-ext-welcomebox:
   forum:
+    discussion: '=> core.ref.discussions'
     npost: '=> core.ref.posts'
     wback: 'Добре дошъл отново,'
     welcomeguest: 'Добре Дошъл Гост'

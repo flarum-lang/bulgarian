@@ -4,6 +4,7 @@
 
 justoverclock-related-discussions:
   admin:
+    DiscussionPageLayout: 'Показване на свързани дискусии в долната част на дискусионните страници'
     relatedLimit: 'Свързани дискусии за показване (по подразбиране 4)'
     relatedLimit-help: 'напиши тук номера на дискусията, която искаш да видиш(напр. "4")'
     relatedTitle: 'Заглавие за „Свързани дискусии“'

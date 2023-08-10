@@ -5,3 +5,4 @@
 justoverclock-feedback:
   admin:
     contactmail: 'Имейл адрес за изпращане на обратна връзка'
+    feedback1-title-help: 'Персонализирай тук името на вашия „тип обратна връзка"'

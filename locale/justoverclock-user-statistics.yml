@@ -7,3 +7,4 @@ justoverclock-user-statistics:
     joinTime: 'Дата на регистрация'
     likeReceived: 'Получено харесване'
     totalDiscussions: 'Тотал Дискусии'
+    totalPosts: 'Брой Публикации'

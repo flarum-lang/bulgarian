@@ -6,4 +6,5 @@ flarum-ext-socialcards:
   admin:
     settings:
       showfacebook: 'Активирай Facebook'
+      showyoutube: 'Активирай Youtube'
       ytlink: 'Youtube Връзка'

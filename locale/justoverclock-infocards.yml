@@ -4,5 +4,6 @@
 
 flarum-ext-infocards:
   forum:
+    forumstats: 'Статистика на форума'
     geninfo: 'Обща информация'
     welcome_back: 'Здравей отново,'

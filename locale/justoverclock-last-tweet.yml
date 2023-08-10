@@ -4,4 +4,5 @@
 
 justoverclock-last-tweet:
   admin:
+    theme: Тема
     theme-help: 'Избери между "тъмна" или "светла" тема (по подразбиране е светла)'
