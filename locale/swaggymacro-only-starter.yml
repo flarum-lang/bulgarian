@@ -5,3 +5,4 @@
 swaggymacro:
   forum:
     blog_article_author: Автор
+    only_starter: 'Само покажи OP'

@@ -6,5 +6,7 @@ tpokorra-post-notification:
   admin:
     settings:
       recipients:
+        new_discussion:
+          to: 'Списък с имейл адреси, разделени със запетая, за получателя за нови дискусии'
         post_approval:
           to: 'Списък с имейл адреси, разделени със запетая, за получателя До за одобрение на нови публикации'

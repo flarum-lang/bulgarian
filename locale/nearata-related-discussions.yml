@@ -8,5 +8,6 @@ nearata-related-discussions:
       allow_guests: 'Позволи гости'
       generator: Генератор
       generator_options:
+        random: Случаен
         title: 'По заглавие'
       max_discussions_help: 'По подразбиране е <strong>5</strong>.'

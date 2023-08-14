@@ -7,5 +7,6 @@ tohsakarat-tags-filter:
     index_page:
       filter_tags:
         all: всички
+        label: '{text}'
         search_label: Търси...
         start_typing: 'Започни да пишеш...'
