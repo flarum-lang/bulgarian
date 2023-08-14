@@ -9,6 +9,7 @@ ianm-syndication:
       forum_activity: 'Активност на форума'
       forum_new_discussions: 'Нови дискусии във форума'
       tag_activity: 'Активност за {tag} таг'
+      tag_new_discussions: 'Дискусии с  {tag} таг'
     feeds:
       titles:
         main_subtitle: 'Последни публикации във форума'
