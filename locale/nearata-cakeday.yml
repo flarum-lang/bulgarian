@@ -9,3 +9,4 @@ nearata-cakeday:
     settings:
       anniversaries_page_label: 'Активиране на страницата за годишнини'
       general_section_title: Общ
+      members_section_title: Членове

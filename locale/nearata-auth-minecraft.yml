@@ -5,6 +5,8 @@
 nearata-auth-minecraft:
   admin:
     settings:
+      api_url:
+        label: 'API URL'
       minecraft_server:
         help: 'Пример: mydomain.tld'
         label: 'Minecraft Сървър ИП'

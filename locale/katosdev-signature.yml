@@ -10,3 +10,4 @@ signature:
     modal:
       loading:
         content: 'Моля изчакай...'
+        title: 'Запазва се'

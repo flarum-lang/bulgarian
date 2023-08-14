@@ -8,4 +8,5 @@ nearata-embed-video:
       options:
         airplay: '*Airplay*'
         hotkey: 'Kлавишна комбинация'
+        lang: 'Език на играча'
         theme: 'Цвят на темата'

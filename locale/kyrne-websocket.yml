@@ -10,3 +10,4 @@ kyrne-websocket:
       viewing_title: 'Тук сега:'
     widget:
       empty: 'В момента няма потребители онлайн.'
+      title: 'Потребители на линия'
