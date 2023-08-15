@@ -275,6 +275,7 @@ CHANGELOG
 * [`justoverclock/flarum-ext-feedback`](https://github.com/justoverclockl/flarum-ext-feedback)
 * [`justoverclock/first-visit-indexpage`](https://github.com/justoverclockl/first-visit-indexpage)
 * [`justoverclock/first-visit-popup`](https://github.com/justoverclockl/first-visit-popup)
+* [`justoverclock/flachat`](https://github.com/justoverclockl/flachat)
 * [`justoverclock/frontend-blog`](https://extiverse.com/extension/justoverclock/frontend-blog)
 * [`justoverclock/geo-weather`](https://github.com/justoverclockl/geo-weather)
 * [`justoverclock/flarum-ext-guestengagement`](https://github.com/justoverclockl/flarum-ext-guestengagement)
