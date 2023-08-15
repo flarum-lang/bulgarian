@@ -6,4 +6,5 @@ justoverclock-steam-api:
   admin:
     steamApiKey: 'Steam Api Key'
   forum:
+    LatestGamesPlayed: 'Последно изиграни игри'
     steamIdSaved: 'Steam id успешно запазено'

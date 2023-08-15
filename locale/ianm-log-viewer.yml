@@ -8,4 +8,5 @@ ianm-log-viewer:
       purge-days: 'Изчисти регистрационните файлове след дни'
     viewer:
       available_logs_heading: 'Налични файлове'
+      file_contents_heading: 'Съдържанието на файла'
       last_updated: 'Последно актуализиран: {updated}'

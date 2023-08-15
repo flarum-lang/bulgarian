@@ -8,6 +8,7 @@ fof-webhooks:
       renamed:
         description: 'Ново заглавие: {1}'
         title: 'Преименувана Дискусия `{1}`'
+      restored: 'Възстановена дискусия `{1}`'
       started: 'Започна дискусия `{1}`'
     group:
       created: 'Създадена `{1}` група'

@@ -5,5 +5,7 @@
 fof-amazon-affiliation:
   admin:
     settings:
+      field:
+        keep-existing-tag-help: 'По подразбиране всеки съществуващ маркер в оригиналния URL адрес се заменя с маркера, който дефинирате по-долу.'
       title:
         modal: 'Amazon Affiliation Настройки'

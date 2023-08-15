@@ -6,3 +6,4 @@ fof-open-collective:
   admin:
     settings:
       api_key_label: 'API Ключ'
+      group_label: 'Група за присвояване'

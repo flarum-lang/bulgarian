@@ -9,6 +9,7 @@ flarum-ext-contactme:
   forum:
     backsoon: 'ще се свържем с теб скоро'
     messagesent: 'Изпратено съобщение!'
+    plsregister: 'Моля, регистрирай се или влез'
     title: 'Свържи се с нас'
   settings:
     emaillabel: 'Имейл, на който ще бъде изпратена контактната форма'

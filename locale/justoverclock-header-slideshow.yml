@@ -4,6 +4,7 @@
 
 header-slideshow:
   admin:
+    TextSlide1: 'Текст за твоя слайд 1'
     TitleSlide1: 'Заглавие на Слайд 1'
     TitleSlide1-help: 'Задай тук заглавието на първия си слайд'
     TransitionTime: 'Скорост на преходи между слайдове (по подразбиране е 5 секунди)'

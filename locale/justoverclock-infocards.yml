@@ -6,4 +6,5 @@ flarum-ext-infocards:
   forum:
     forumstats: 'Статистика на форума'
     geninfo: 'Обща информация'
+    totdisc: 'Брой Дискусии'
     welcome_back: 'Здравей отново,'
