@@ -311,6 +311,7 @@ CHANGELOG
 * [`justoverclock/username-blacklist`](https://github.com/justoverclockl/username-blacklist)
 * [`justoverclock/website-live-screenshot`](https://extiverse.com/extension/justoverclock/website-live-screenshot)
 * [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`justoverclock/youtube-video-feed`](https://github.com/justoverclockl/youtube-video-feed)
 * [`katosdev/signature`](https://github.com/katosdev/signature)
 * [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free)
 * [`kilowhat/flarum-ext-audit-pro`](https://extiverse.com/extension/kilowhat/flarum-ext-audit-pro)
