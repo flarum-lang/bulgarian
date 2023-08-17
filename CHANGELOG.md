@@ -9,7 +9,7 @@ CHANGELOG
 
 * Updated Day.js translations.
 * Updated Flarum core translations.
-* Updated validation translations.
+* Актуализирани преводи за проверка.
 
 
 **Added support for new extensions**:
@@ -262,6 +262,7 @@ CHANGELOG
 * [`justoverclock/composer-autocomplete`](https://github.com/justoverclockl/composer-autocomplete)
 * [`justoverclock/flarum-ext-contactme`](https://github.com/justoverclockl/flarum-ext-contactme)
 * [`justoverclock/country-flags`](https://github.com/justoverclockl/country-flags)
+* [`justoverclock/custom-header`](https://github.com/justoverclockl/custom-header)
 * [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget)
 * [`justoverclock/discord-widget`](https://extiverse.com/extension/justoverclock/discord-widget)
 * [`justoverclock/discussion-hero-showtags`](https://github.com/justoverclockl/discussion-hero-showtags)
@@ -286,6 +287,7 @@ CHANGELOG
 * [`justoverclock/imdb-api`](https://extiverse.com/extension/justoverclock/imdb-api)
 * [`justoverclock/flarum-ext-infocards`](https://github.com/justoverclockl/flarum-ext-infocards)
 * [`justoverclock/job-cards`](https://extiverse.com/extension/justoverclock/job-cards)
+* [`justoverclock/flarum-ext-keywords`](https://github.com/justoverclockl/flarum-ext-keywords)
 * [`justoverclock/last-post-useravatar`](https://github.com/justoverclockl/last-post-useravatar)
 * [`justoverclock/last-registered-users`](https://github.com/justoverclockl/last-registered-users)
 * [`justoverclock/last-tweet`](https://github.com/justoverclockl/last-tweet)
@@ -349,6 +351,7 @@ CHANGELOG
 * [`nearata/flarum-ext-related-discussions`](https://github.com/Nearata/flarum-ext-related-discussions)
 * [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password)
 * [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator)
+* [`nearata/flarum-ext-twofactor`](https://github.com/Nearata/flarum-ext-twofactor)
 * [`nomiscz/flarum-ext-auth-wechat`](https://github.com/NomisCZ/flarum-ext-auth-wechat)
 * [`nosun/reply-to-see`](https://github.com/nosun/flarum-ext-reply2see)
 * [`nyu8/flarum-email-filter`](https://github.com/nyu8/flarum-email-filter)
@@ -382,6 +385,7 @@ CHANGELOG
 * [`v17development/flarum-seo`](https://github.com/v17development/flarum-seo)
 * [`v17development/flarum-support`](https://extiverse.com/extension/v17development/flarum-support)
 * [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+* [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar)
 * [`webbinaro/flarum-affiliator`](https://github.com/eddiewebb/flarum-affiliator)
 * [`webbinaro/flarum-age-check`](https://github.com/eddiewebb/flarum-age-check)
 * [`webbinaro/flarum-calendar`](https://github.com/eddiewebb/flarum-calendar)
