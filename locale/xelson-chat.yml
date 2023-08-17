@@ -7,6 +7,7 @@ xelson-chat:
     index:
       chat_link: Чат
     toolbar:
+      disable_sounds: 'Деактивирай звуци'
       enable_notifications: 'Активирай известия'
       enable_sounds: 'Активирай звуци'
       title: Чат

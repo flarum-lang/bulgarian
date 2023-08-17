@@ -6,3 +6,4 @@ nearata-cloudflare:
   admin:
     settings:
       api_key: 'API Ключ'
+      refresh_zone_help: 'Щракнете върху бутона по-горе <strong>само </strong>ако името на домейна е променено.'

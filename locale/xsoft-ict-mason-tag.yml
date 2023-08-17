@@ -8,6 +8,7 @@ xsoft-mason-tag:
       edit-title: 'Редактирай полета за {title}'
       save: 'Запази полета'
     answers:
+      choose-option: 'Избери опция'
       no-option-selected: 'Няма избрана опция'
     discussion-controls:
       edit-answers: 'Редактирай полета'

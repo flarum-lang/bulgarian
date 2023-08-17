@@ -9,4 +9,5 @@ v17development-flarum-blog:
       approve_posts: 'Може да одобрява блог статии'
       write_articles: 'Пиши и редактирай статии за блога'
     settings:
+      no_categories_selected: 'Няма избрани категории'
       selected_category_count: '{count, plural, one {You have # category selected} other {You have # categories selected}}'

@@ -7,3 +7,4 @@ nearata-minecraft-avatars:
     help_text: 'Потребителското име ще бъде преобразувано в UUID.'
     submit_button: 'Запази промени'
     username_not_found: 'Не е открито потребителско име.'
+    username_uuid_not_valid: 'Невалидно потребителско име или UUID.'

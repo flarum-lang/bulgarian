@@ -6,3 +6,7 @@ nearata-embed-twitch:
   admin:
     allowfullscreen: 'Позволи цял екран'
     autoplay: '*Autoplay*'
+  forum:
+    modal:
+      label:
+        channel: 'Име на канал'

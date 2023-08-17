@@ -7,3 +7,5 @@ fof-github-sponsors:
     account_types:
       organization: Организация
       user: Потребител
+    settings:
+      login_label: Влизане

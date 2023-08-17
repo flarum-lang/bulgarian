@@ -8,5 +8,6 @@ tohsakarat-tags-filter:
       filter_tags:
         all: всички
         label: '{text}'
+        no_results: 'Няма резултати'
         search_label: Търси...
         start_typing: 'Започни да пишеш...'

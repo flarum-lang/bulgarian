@@ -4,5 +4,7 @@
 
 ralkage-hcaptcha:
   admin:
+    permissions:
+      post_without_hcaptcha: 'Създай публикации и дискусии без hCaptcha'
     settings:
       secret_key_label: 'Таен ключ'

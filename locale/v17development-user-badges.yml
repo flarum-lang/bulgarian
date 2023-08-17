@@ -7,3 +7,4 @@ v17development-flarum-badges:
     create_category: 'Създай категория'
     edit_category: 'Редактирай категория'
     uncategorized: Некатегоризиран
+    update_category: 'Актуализирай категория'

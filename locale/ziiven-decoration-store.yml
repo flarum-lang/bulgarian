@@ -7,4 +7,5 @@ ziven-decoration-store:
     cancel: Откажи
     close: Затвори
     confirm: Потвърди
+    none: 'Няма резултати'
     ok: ОК

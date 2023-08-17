@@ -10,4 +10,5 @@ nearata-related-discussions:
       generator_options:
         random: Случаен
         title: 'По заглавие'
+      max_discussions: 'Максимален брой Дискусии'
       max_discussions_help: 'По подразбиране е <strong>5</strong>.'

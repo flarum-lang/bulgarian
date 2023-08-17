@@ -6,4 +6,5 @@ flarum-ext-newsletter:
   admin:
     listn: 'Име на списък'
   forum:
+    submitbutton: Изпрати
     subscribe: 'Абонирайсе за нашия бюлетин. Моля, въведи своя имейл и натисни Изпрати.'

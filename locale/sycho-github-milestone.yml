@@ -4,6 +4,7 @@
 
 sycho-github-milestone:
   admin:
+    closed: '=> sycho-github-milestone.ref.closed'
     default_filter: 'Филтър по подразбиране'
     open: '=> sycho-github-milestone.ref.open'
     repository_example: 'например: flarum/core'

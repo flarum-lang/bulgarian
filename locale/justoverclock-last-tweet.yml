@@ -4,5 +4,6 @@
 
 justoverclock-last-tweet:
   admin:
+    profile-help: 'пример - https://twitter.com/flarum'
     theme: Тема
     theme-help: 'Избери между "тъмна" или "светла" тема (по подразбиране е светла)'

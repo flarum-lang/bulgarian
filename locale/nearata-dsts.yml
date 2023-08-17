@@ -7,4 +7,5 @@ nearata-dsts:
     permissions:
       can_bypass_reply: 'Може да заобиколи отговора'
     settings:
+      enabled: Активиран
       hide_only_first_post: 'Скрий само първия пост'

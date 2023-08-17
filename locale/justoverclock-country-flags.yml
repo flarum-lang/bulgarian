@@ -8,4 +8,5 @@ justoverclock-country-flags:
     showFlagsOnPosts: 'Показване на флагове на публикации'
   forum:
     clickToSelectCountry: 'Кликни, за да избереш твоята държава'
+    countrySaved: 'Успешно запазена държава!'
     saveButton: Запази

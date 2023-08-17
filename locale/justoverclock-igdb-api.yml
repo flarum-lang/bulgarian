@@ -5,3 +5,5 @@
 justoverclock-igdb-api:
   admin:
     rawgApi: 'RawG Api Ключ'
+  forum:
+    publisher: Публикуващ

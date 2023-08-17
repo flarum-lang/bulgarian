@@ -3,6 +3,8 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 swaggymacro:
+  admin:
+    setting_only_starter: 'Само OP'
   forum:
     blog_article_author: Автор
     only_starter: 'Само покажи OP'

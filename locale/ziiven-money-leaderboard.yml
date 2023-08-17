@@ -4,5 +4,6 @@
 
 ziven-money-leaderboard:
   forum:
+    leaderboard-list-money: 'Притежавани пари'
     leaderboard-list-user: Потребител
     leaderboard-load-more: 'Зареди още'

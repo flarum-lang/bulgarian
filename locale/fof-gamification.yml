@@ -6,5 +6,6 @@ fof-gamification:
   forum:
     ranking:
       name: Потребител
+      rank: Място
     vote_title: 'Покажи кой е гласувал'
     votes: Гласове

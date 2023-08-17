@@ -10,4 +10,5 @@ flarum-ext-bbcode-5star-rating:
     modal:
       headline: 'Избери твоята оценка'
       stars_0: '0 звезди'
+      stars_1: '0.5 звезди'
       stars_2: '1 звезда'

@@ -13,4 +13,5 @@ fof-masquerade:
       view-profile: 'Виж профил'
     fields:
       select:
+        none-optional: 'Няма избрана опция (опционално)'
         none-required: 'Моля, избери опция (задължително)'

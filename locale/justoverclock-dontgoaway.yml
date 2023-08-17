@@ -4,4 +4,5 @@
 
 flarum-ext-dontgoaway:
   admin:
+    urltextdesc: 'Постави тук URL адреса на твоето персонализирано изображение'
     widthtext: 'Ширина на изображението'

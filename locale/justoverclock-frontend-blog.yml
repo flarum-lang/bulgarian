@@ -4,6 +4,7 @@
 
 justoverclock-frontend-blog:
   admin:
+    charLim: 'Ограничение на знаците'
     charLim-help: 'Постави тук максималния брой знаци за показване'
     numberOfPost: 'Брой публикации'
     numberOfPost-help: 'Поставитук номера на публикацията, която искаш да покажеш'
