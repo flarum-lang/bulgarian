@@ -8,6 +8,8 @@ signature:
       save: 'Запази подпис'
       signature: Подпис
     modal:
+      error:
+        content: 'Списък с грешки:'
       loading:
         content: 'Моля изчакай...'
         title: 'Запазва се'

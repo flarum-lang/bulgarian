@@ -7,4 +7,5 @@ migratetoflarum-fake-data:
     generator:
       bulk-mode-description: 'Генерира една произволна стойност и я използва повторно за всеки запис'
       discussion-count: 'Брой дискусии за създаване'
+      discussion-tags-none: 'Няма резултат'
       user-count: 'Брой потребители за създаване'

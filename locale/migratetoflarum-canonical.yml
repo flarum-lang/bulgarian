@@ -7,3 +7,4 @@ migratetoflarum-canonical:
     settings:
       step:
         enable_temporary: 'Активирай временно пренасочване и провери дали всичко работи'
+        suggestions: 'Други предложения, които това разширение не налага или покрива'

@@ -7,3 +7,5 @@ kilowhat-rich-embeds:
     settings:
       layoutOptions:
         separated: Разделен
+      positionOptions:
+        replace: 'Замести линк'

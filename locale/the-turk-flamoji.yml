@@ -5,6 +5,7 @@
 the-turk-flamoji:
   admin:
     settings:
+      auto_hide_label: 'Автоматично скрий'
       category_settings_heading: 'Настройки на Категория'
       emoji_settings_heading: 'Emoji Настройки'
       show_variants_label: 'Покажи варианти'

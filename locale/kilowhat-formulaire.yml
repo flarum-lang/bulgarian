@@ -5,6 +5,7 @@
 kilowhat-formulaire:
   admin:
     permissions:
+      editOwnUser: '=> kilowhat-formulaire.ref.permissions.editOwnUser'
       fill: '=> kilowhat-formulaire.ref.permissions.fill'
       seeOwnUser: '=> kilowhat-formulaire.ref.permissions.seeOwnUser'
   ref:

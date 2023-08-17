@@ -4,6 +4,7 @@
 
 malago-achievements:
   forum:
+    achievement_total_points: Тотал
     new_achievement_close: Разбрах!
     new_achievement_name: Постижение
     new_achievement_title: 'Ново постижение!'

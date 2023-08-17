@@ -8,3 +8,6 @@ kyrne-whisper:
       start_label: 'Започни лични разговори'
     settings:
       title: 'Whisper Настройки'
+  forum:
+    setup:
+      title: 'Настройте лични съобщения'

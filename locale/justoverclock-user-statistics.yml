@@ -7,5 +7,6 @@ justoverclock-user-statistics:
     joinTime: 'Дата на регистрация'
     likeReceived: 'Получено харесване'
     likes: Харесвания
+    totalBestAnswer: 'Най-добри отговори'
     totalDiscussions: 'Тотал Дискусии'
     totalPosts: 'Брой Публикации'

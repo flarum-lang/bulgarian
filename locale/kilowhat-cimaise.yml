@@ -5,6 +5,7 @@
 kilowhat-cimaise:
   forum:
     album-list:
+      empty: 'Няма албуми'
       title: '=> kilowhat-cimaise.ref.albums'
     nav:
       albums: '=> kilowhat-cimaise.ref.albums'
