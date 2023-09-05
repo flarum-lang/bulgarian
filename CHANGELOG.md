@@ -29,7 +29,7 @@ CHANGELOG
 * [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
 * [`archlinux-de/flarum-click-image`](https://github.com/archlinux-de/flarum-click-image)
 * [`askvortsov/flarum-article-series`](https://github.com/askvortsov1/flarum-article-series)
-* [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-auto-moderator)
+* [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-automod)
 * [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories)
 * [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
 * [`askvortsov/flarum-discussion-templates`](https://github.com/askvortsov1/flarum-discussion-templates)
