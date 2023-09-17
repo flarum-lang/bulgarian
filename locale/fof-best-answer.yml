@@ -75,7 +75,7 @@ fof-best-answer:
     remove_best_answer: 'Премахнете отметката от най-добрия отговор'
     this_best_answer: 'Изберете Най-добият отговор'
     user:
-      best-answer-count: '{count, plural, one { {count} best answer} other {{count} best answers}}'
+      best-answer-count: '{count, plural, one { {count} най-добрият отговор} other {{count} най-добрите отговори}}'
 fof-user-directory:
   lib:
     sort:

@@ -7,13 +7,17 @@ fof-discussion-language:
     permissions:
       allow_change_language_label: 'Позволи редактиране на език'
     settings:
+      composer_default_label: 'Предварително изберете текущия локален език в инструмента за създаване на дискусии'
       config:
         country_label: 'Държава (за показване на флаг)'
         language_label: Език
+      errors:
+        missing_assets: 'Не можахме да заредим активите, необходими на това разширение. Опитайте да стартирате <code>php flarum assets:publish</code> и вижте дали това решава проблема.'
       locale_sort_label: 'Използвай открития език за филтър на дискусията по подразбиране'
       native_label: 'Използвай имена на роден език'
       show_any_lang_opt_label: 'Покажи опцията за избор на „Всеки език“'
       show_flag_label: 'Покажи знамена на държави с имена на езици'
+      tags_page_discussion_locale_label: 'Показвайте само дискусии от текущия локален език на потребителя на страницата с тагове'
   api:
     discussion:
       validation_error: 'Трябва да избереш език на дискусията.'

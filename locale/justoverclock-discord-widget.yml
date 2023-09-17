@@ -3,6 +3,9 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 justoverclock-discord-widget:
+  admin:
+    channelId: 'ID на канала'
+    channelId-help: 'Включете Widget на вашия сървър и поставете тук ID на вашия канал'
   forum:
     channels: Канали
     close: Затвори

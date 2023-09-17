@@ -38,9 +38,9 @@ fof-linguist:
       download: Свали
       include-all: 'Включете и преводите, които са дефинирани за всички езици'
       include-originals: 'Включете и оригиналния превод'
-      locale: Locale
-      locale-all: 'Pseudo-locale "All"'
-      namespace: Namespace
+      locale: 'Локален език'
+      locale-all: 'Псевдо-локал "Всички"'
+      namespace: '"Namespace"'
       namespace-all: Всички
       output: Резултат
       output-empty: 'Празен резултат'
@@ -69,13 +69,13 @@ fof-linguist:
       with-own-translations: 'Моите преводи'
     import:
       input: Принос
-      input-placeholder: 'Drag and drop or paste a Yaml file here'
-      locale: Locale
-      locale-all: 'Pseudo-locale "All"'
+      input-placeholder: 'Завлечете или поставете Yaml файл тук'
+      locale: 'Локален език'
+      locale-all: 'Псевдо-локал "Всички"'
       override-existing: 'Override всичките ми персонализирание преводи'
-      results: "The import is finished. {imported} strings have been imported and {identical} identical strings were skipped. The page will now refresh to show the new translations.\n"
-      results-with-ignore: "The import is finished. {imported} strings have been imported, {ignored} existing strings have been ignored and {identical} identical strings were skipped. The page will now refresh to show the new translations.\n"
-      submit: Import
+      results: "Импортирането е завършено. {imported} низове бяха импортирани и {identical} идентични низове бяха пропуснати. Сега страницата ще се опресни, за да покаже новите преводи.\n"
+      results-with-ignore: "Импортирането е завършено. {imported} низове бяха импортирани, {ignored} съществуващи низове бяха игнорирани и {identical} идентични низове бяха пропуснати. Сега страницата ще се опресни, за да покаже новите преводи.\n"
+      submit: Импортиране
       title: Импортни
     known-frontend:
       admin: Администратор

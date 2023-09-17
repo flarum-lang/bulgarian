@@ -8,15 +8,24 @@ nyu8-email-filter:
       description: 'Точни имейли в blacklist-а'
       label: '*Blacklist*'
       placeholder: 'Имейли в blacklist...'
+    blacklist_regex:
+      description: 'Регулярни изрази за забранен списък на имейли'
+      label: 'Регулярен израз за забранения списък'
+      placeholder: 'Регулярен израз за забранен списък на...'
     custom_failure_message_hint: 'Персонализирано съобщение за грешка, което показва, когато имейлът е невалиден. Ще покаже съобщения за грешка по подразбиране, ако това остане празно.'
     custom_failure_message_label: 'Персонализирано Съобщение за Грешка'
     general: 'Обща информация'
+    invalid_regular_expression: 'Невалиден регулярен израз'
     name_placeholder: 'Име на правило'
     rule_settings: 'Настройки на правила'
     whitelist_literal:
       description: 'Точни имейли в whitelist'
       label: '*Whitelist*'
       placeholder: 'Имейл в whitelist...'
+    whitelist_regex:
+      description: 'Имейл регулярни изрази в разрешения списък'
+      label: 'Регулярен израз в позволения списък'
+      placeholder: 'Регулярен израз в разрешения списък...'
   forum:
     blacklist_exception: 'Този имейл или неговият домейн е в blacklist-а на този форум.'
     generic_exception: 'Нещо се обърка. Обърнете се към администратора на този форум.'

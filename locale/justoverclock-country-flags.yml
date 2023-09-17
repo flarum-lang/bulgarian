@@ -9,4 +9,5 @@ justoverclock-country-flags:
   forum:
     clickToSelectCountry: 'Кликни, за да избереш твоята държава'
     countrySaved: 'Успешно запазена държава!'
+    inputCountryCode: 'Код на държавата'
     saveButton: Запази
