@@ -12,7 +12,7 @@ fof-best-answer:
       best_answer_not_own_discussion: 'Избери Най-добрият Отговор (чужда Дискусия)'
     settings:
       allow_select_own_post: 'Избери собствен пост'
-      allow_select_own_post_help: 'Позволи на оригиналният публикувал да избере собствения си пост в дискусията като най-добър отговор'
+      allow_select_own_post_help: 'Позволете на потребителя да избере свои собствени публикации като най-добър отговор в дискусия'
       documentation: Документация
       enable_all_tags_button: 'Активирай всички тагове за Най-Добри Отговори'
       enable_all_tags_reminder_button: 'Активирай всички тагове за напомняния за Най-Добър Отговор'

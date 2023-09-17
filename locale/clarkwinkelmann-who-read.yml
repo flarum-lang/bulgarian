@@ -3,10 +3,39 @@
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
 clarkwinkelmann-who-read:
+  admin:
+    permissions:
+      mark-unread: 'Маркирайте дискусиите като непрочетени за собствените потребители'
+      see-read: 'Вижте статуса на четене'
+      see-subscription: 'Вижте статуса на абонамента'
+      see-unread: 'Вижте непрочетения статус на други потребители'
+    settings:
+      hide-when-behind: 'Скрийте напълно даден потребител, ако той стои зад толкова много публикации'
+      max-visible: 'Максимален брой потребители за показване преди "прочетете повече"'
+      only-groups: 'Показване само на статуса на прочитане на потребители, принадлежащи към тези групи'
+      show-between-posts: 'Показване на статуса на четене между публикациите'
+      show-count-of-readers-who-stopped: 'Показване на броя на потребителите, които са спрели да четат, вместо общия брой прочетени между публикациите'
+      show-in-discussion-list: 'Показване на читателите в списъка с дискусии'
+      show-in-hero: 'Показване на героя на читателите в дискусията'
+      unread-icon: 'Икона за значката за непрочетени'
   forum:
+    badges:
+      following: '=> flarum-subscriptions.forum.badge.following_tooltip'
+      ignoring: '=> flarum-subscriptions.forum.badge.ignoring_tooltip'
+      unread: 'Маркирано като непрочетено'
+    controls:
+      remove-unread: 'Премахване на непрочетено'
+      set-unread: 'Маркирай като непрочетено'
     footer:
-      read-no-further: '{count, plural, =0 {Everybody read further} one {One user did not read further} other {# did not read further}}'
-      read-this-post: '{count, plural, =0 {Nobody read this post} one {One user read this post} other {# users read this post}}'
+      read-no-further: '{count, plural, =0 {Всеки чете повече} one {Един потребител не прочете повече} other {# не прочетоха повече}}'
+      read-this-post: '{count, plural, =0 {Никой не чете тоази публикация} one {Един потребител прочете тази публикация} other {# потребителите четат тази публикация}}'
+      read-to-end: '{count, plural, =0 {Никой не прочете до края} one {Един потребител прочете до края} other {# прочетоха до края}}'
+    modal:
+      behind: 'Потребители, които не са прочели до края'
+      past-this-post: 'Потребители, които са прочели тази публикация'
+      title: Читатели
+      to-the-end: 'Потребители, които четат до края'
+      up-to-this-post: 'Потребители, които са прочели до тази публикация'
     more:
       info: 'И {count} повече'
       show: 'Покажи {count} още'

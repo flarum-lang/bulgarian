@@ -7,7 +7,24 @@ v17development-flarum-blog:
     blog: Блог
     permissions:
       approve_posts: 'Може да одобрява блог статии'
+      auto_approve_posts: 'Публикувайте статии без одобрение'
       write_articles: 'Пиши и редактирай статии за блога'
     settings:
+      add_sidebar_nav_label: 'Добавяне към навигацията в страничната лента'
+      add_sidebar_nav_text: 'Включете връзка към блога в навигационното меню на страничната лента.'
+      allow_comments_label: 'Разрешаване на коментари'
+      allow_comments_text: 'По подразбиране се разрешават коментари за публикации в блогове. Когато е деактивирано, може да се активира индивидуално за публикация в блог. <b>Забележка:</b> Промяната на тази настройка няма да засегне вече съществуващи публикации в блогове.'
+      blog_heading: Блог
+      categories_heading: Категории
+      featured_count_label: 'Макс. представени публикации'
+      featured_count_text: 'Колко публикации трябва да се показват в голяма мрежа в горната част на страницата на блога?'
+      hide_on_discussion_list_label: 'Да не се показва в списъка за дискусии'
+      hide_on_discussion_list_text: 'Скриване на публикации в блогове от списъка с дискусии.'
+      hide_tags_in_taglist_label: 'Скриване на тагове в списъка с тагове'
+      hide_tags_in_taglist_text: 'Когато е активирано, това разширение ще скрие маркерите на блога от началната ви страница.'
       no_categories_selected: 'Няма избрани категории'
-      selected_category_count: '{count, plural, one {You have # category selected} other {You have # categories selected}}'
+      require_review_label: 'Публикациите в блога изискват преглед'
+      require_review_text: 'Когато публикувате статия, тя няма да се вижда директно и трябва да бъде прегледана от модератор.'
+      select_categories_button: 'Изберете категории блогове'
+      selected_category_count: '{count, plural, one {Избрали сте # категория} other {Избрали сте # категории}}'
+      show_tag_hierarchy_label: 'Показване на йерархията на таговете'

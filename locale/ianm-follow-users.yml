@@ -9,7 +9,63 @@ ianm-follow-users:
     settings:
       button-on-profile-label: 'Показване на бутона Следване директно в заглавието в профила на потребителите'
       stats-on-profile-label: 'Покажи последовател и брой следващи в потребителските профили'
+  email:
+    new_discussion_by_user_body: "Здравей, {recipient_display_name},\n\n{user_display_name} започна нова дискусия: {discussion_title}\n\nЗа да видите новата дискусия, вижте следната връзка:\n\n{discussion_url}\n\n---\n\n{post_content}\n"
+    new_discussion_by_user_subject: '[Follow User] - {title}'
+    new_follower_body: "Здравей, {recipient_display_name},\n\n{follower_display_name} започна да ви следва, така че ще бъде уведомен, когато започнете нова дискусия.\n\nЗа да видите техния профил, вижте следната връзка:\n\n{profile_url}\n"
+    new_follower_subject: '[Follow User] - Имате нов последовател!'
+    new_post_body: "Здравей, {recipient_display_name},\n\n{user_display_name} публикува в дискусия: {discussion_title}\n\nЗа да видите новата дейност, вижте следната връзка:\n\n{post_url}\n\n---\n\n{post_content}\n\n---\n\nНяма да получавате повече известия за тази дискусия, докато не сте в течение.\n"
+    new_post_subject: '[Follow User] Нова публикация в {title}'
   forum:
-    followers: '{count, plural, one {Follower} other {Followers}}'
+    badge:
+      label:
+        follow: 'Дискусии който се следват'
+        lurk: 'Следвайки всички'
+    filter:
+      following: 'Следени потребители'
+    followed: Следван
+    followers: '{count, plural, one {Последовател} other {Последователи}}'
+    index:
+      follow_tag_button: '=> ianm-follow-users.lib.follow'
+      unfollow_tag_button: '=> ianm-follow-users.lib.change_follow_type'
+    modals:
+      select_follow_level:
+        cancel_btn: Отказ
+        description: 'Изберете как искате да следвате <em>{username}</em>.'
+        follow_levels_heading: 'Нива на следене'
+        follow_select_label: 'Вид следене'
+        no_user_attr_provided_err: 'Упс, нещо се обърка при отварянето на този модал.'
+        no_user_attr_provided_err_debug: 'При създаването на модала SelectFollowUserLevel не е предаден атрибут `user`. Модалът не може да бъде изобразен.'
+        save_btn: Запазване
+        title: 'Изберете следващо ниво за {username}'
+    notifications:
+      new_discussion_text: '{username} започна'
+      new_follower_text: '{username} ви последва'
+      new_post_text: '{username} публикува в дискусия'
+      new_unfollower_text: '{username} спря да ви следва'
+    profile_link: '=> ianm-follow-users.lib.following_link'
     profile_page:
       no_following: 'Изглежда, че не следвате никого.'
+    settings:
+      block_follow: 'Предотвратете потребителите да ви следват'
+      notify_new_discussion_label: 'Някой, когото следвам, започвна дискусия'
+      notify_new_follower_label: 'Някой ме следва'
+      notify_new_post_label: 'Някой когото следя, публикува в съществуваща дискусия'
+      notify_new_unfollower_label: 'Някой спря да ме следва'
+    user_controls:
+      follow_button: '=> ianm-follow-users.lib.follow'
+      unfollow_button: '=> ianm-follow-users.lib.change_follow_type'
+  lib:
+    change_follow_type: 'Промяна на типа следване'
+    follow: Следвай
+    follow_levels:
+      follow:
+        description: "Получавайте известия, когато <em>{username}</em> започне нова дискусия.\n"
+        name: 'Следване на дискусии'
+      lurk:
+        description: "Получавайте известия, когато <em>{username}</em> започне нова дискусия или публикува в която и да е дискусия.\n"
+        name: 'Следвайте всичко'
+      unfollow:
+        description: "Не получавайте никакви известия за активността на <em>{username}</em>.\n"
+        name: 'Не следвай'
+    following_link: 'Следени потребители'

@@ -78,10 +78,10 @@ fof-linguist:
       submit: Import
       title: Импортни
     known-frontend:
-      admin: Админ
+      admin: Администратор
       api: API
       forum: Форум
-      lib: 'Lib (used on both Forum and Admin)'
+      lib: 'Lib (използва се както във форума, така и в Aдминистрацията)'
       ref: 'Ref (преизползва се от останлите ключове)'
     known-namespace:
       core: 'Flarum Core'
