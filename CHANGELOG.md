@@ -143,7 +143,7 @@ CHANGELOG
 * [`datlechin/flarum-silent-edit`](https://github.com/datlechin/flarum-silent-edit)
 * [`datlechin/flarum-tag-passwords`](https://github.com/datlechin/flarum-tag-passwords)
 * [`datlechin/flarum-title-length`](https://github.com/datlechin/flarum-title-length)
-* [`datlechin/flarum-usercard-uid`](https://github.com/flatension/flarum-usercard-uid)
+* [`datlechin/flarum-usercard-uid`](https://github.com/datlechin/flarum-usercard-uid)
 * [`datlechin/flarum-who-replied`](https://github.com/datlechin/flarum-who-replied)
 * [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
 * [`davwheat/custom-sidenav-links`](https://github.com/davwheat/flarum-ext-custom-sidenav-links)
