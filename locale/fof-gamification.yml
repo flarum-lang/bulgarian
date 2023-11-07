@@ -2,10 +2,75 @@
 # Use https://weblate.rob006.net/projects/flarum/fof-gamification/bg/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
-fof-gamification:
+core:
   forum:
+    index_sort:
+      hot_button: Тенденция
+      votes_button: Одобрения
+fof-gamification:
+  admin:
+    page:
+      alt_votes:
+        icon_name: 'Име на иконката за алтернативно оформление'
+      rankings:
+        blocked:
+          help: 'Тези потребители няма да бъдат показани на страницата за класиране. Потребителските имена трябва да бъдат разделени със запетая, последвана от интервал.'
+          placeholder: 'админ, потребител1, потребител2'
+          title: 'Игнорирани потребители'
+        custom_image_1: 'Изображение на 1-во място'
+        custom_image_2: 'Изображение на 2-ро място'
+        custom_image_3: 'Изображение на 3-то място'
+        enable: 'Активиране на персонализирани изображения'
+        title: 'Страница с класации'
+      votes:
+        alternate_layout: 'Използвайте алтернативно оформление за гласуване в списъка с дискусии'
+        alternate_post_layout: 'Използвайте алтернативно оформление за гласуване на публикации'
+        auto_upvote: 'Автоматично одобряване на публикации, когато бъдат публикувани'
+        color_holder: '#ffffff'
+        discussion_page: 'Показване на общия брой гласове на оригиналната публикация в списъка с дискусии'
+        icon_help: 'Въведете произволна икона на Font-Awesome със суфикс -up и -down. Примери: стрелка, палци, шеврон'
+        icon_name: 'Иконка за одобрение/неодобрение'
+        points_placeholder: 'Точки: '
+        points_title: 'Заместител за точки'
+        rate_limit: 'Налагане на лимит за гласуване (10 секунди)'
+        title: Гласове
+        upvotes_only: 'Разрешете само гласуване "За"'
+        vote_color: 'Гласуван цвят'
+    permissions:
+      downvote_notifications: 'Получаване на съобщение при неодобрение'
+      see_ranking_page: 'Преглеждане на страницата за класиране'
+      see_voters_label: 'Преглеждане кой е гласувал'
+      see_votes_label: 'Виж за/против брой на гласове'
+      upvote_notifications: 'Получаване на съобщение при одобрение'
+      vote_label: 'Одобряване/Неодобряване на публикация'
+  forum:
+    mod_item: 'Прегледай гласуващите'
+    modal:
+      downvotes_label: 'Гласували против:'
+      title: Гласуващи
+      upvotes_label: 'Гласували за:'
+    nav:
+      name: Класации
+    notification:
+      downvote: '{username} гласува против публикацията ви'
+      prefrences:
+        vote: 'Когато една от публикациите ми бъде гласувана за/против'
+      upvote: '{username} одобри вашата публикация'
+    post:
+      downvote_button: 'Неодобряване на пост'
+      upvote_button: 'Одобряване на пост'
     ranking:
+      amount: Точки
       name: Потребител
       rank: Място
+    user:
+      card:
+        points: '{count, plural, one { {count} точка} other {{count} точки}}'
+      rank: '{rank}'
+      votes_link: Гласове
     vote_title: 'Покажи кой е гласувал'
+    voters:
+      label: Гласуващи
+      label_none: 'Няма гласуващи'
+      none: 'Все още няма гласуващи'
     votes: Гласове

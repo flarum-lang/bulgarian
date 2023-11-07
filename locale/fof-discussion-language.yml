@@ -32,3 +32,6 @@ fof-discussion-language:
       change_language_button: 'Задай Език'
     index_language:
       any: 'Всеки език'
+    sub_controls:
+      subscription_language_help: 'Когато изберете език, ще бъдете уведомявани само за нова дейност на този език.'
+      subscription_language_label: 'Език за дискусия'

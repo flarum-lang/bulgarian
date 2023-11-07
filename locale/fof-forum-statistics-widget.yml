@@ -4,9 +4,15 @@
 
 fof-forum-statistics-widget:
   admin:
+    permissions:
+      view_discussions_count_label: 'Преглед на статистика за брой на дискусиите'
+      view_lastest_member_label: 'Преглед на статистика за последни потребители'
+      view_posts_count_label: 'Преглед на статистика за брой на постовете'
+      view_users_count_label: 'Преглед на статистика за брой на потребителите'
     settings:
+      widget_helper_text: 'Редактирайте тази настройка, за да коригирате позицията на тази джаджа в раздела за странична навигация във вашия форум на Flarum. Колкото по-голямо е числото, толкова по-високо ще бъде тази джаджа в списъка с елементи на страничната навигация (тази стойност може да бъде положителна или отрицателна).'
       widget_ignore_private_discussions_label: 'Игнорирайте частните дискусии'
-      widget_order_label: 'Поръчка на джаджи'
+      widget_order_label: 'Подредба на джаджи'
   forum:
     navbar:
       discussions_count: 'Дискусии: {discussionsCount}'

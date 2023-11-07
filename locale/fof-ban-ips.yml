@@ -2,6 +2,12 @@
 # Use https://weblate.rob006.net/projects/flarum/fof-ban-ips/bg/ for translation.
 # You can read more about the process at https://github.com/rob006-software/flarum-translations/wiki.
 
+blomstra-gdpr:
+  lib:
+    data:
+      bannedipdata:
+        anonymize_description: 'Всички IP адреси, свързани с потребителя, се отделят, но самият IP ще остане забранен, заедно с причината. Уверете се, че в полето ''причина'' не се съхраняват лични данни.'
+        export_description: 'Ако запис за забрана на IP е свързан с потребител (т.е. потребителят е бил забранен от IP), IP адресът на потребителя ще бъде включен в експортирането, заедно с причината за забраната и датата на създаване.'
 fof-ban-ips:
   admin:
     empty_text: 'Няма намерени забранени IP адреси.'
