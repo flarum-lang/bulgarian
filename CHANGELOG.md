@@ -120,7 +120,7 @@ CHANGELOG
 * [`convo-extensions/flarum-ext-guest-posting`](https://extiverse.com/extension/convo-extensions/flarum-ext-guest-posting)
 * [`convo-extensions/flarum-ext-quick-reply`](https://extiverse.com/extension/convo-extensions/flarum-ext-quick-reply)
 * [`datitisev/flarum-backup`](https://extiverse.com/extension/datitisev/flarum-backup)
-* [`datitisev/flarum-discussion-agree-message`](https://github.com/datitisev/flarum-discussion-agree-message)
+* [`datitisev/flarum-discussion-agree-message`](https://github.com/dsevillamartin/flarum-discussion-agree-message)
 * [`datitisev/flarum-maintenance`](https://extiverse.com/extension/datitisev/flarum-maintenance)
 * [`datitisev/flarum-webhooks-pro`](https://extiverse.com/extension/datitisev/flarum-webhooks-pro)
 * [`datlechin/flarum-add-like-controls`](https://github.com/datlechin/flarum-add-like-controls)
