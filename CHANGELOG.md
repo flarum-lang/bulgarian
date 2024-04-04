@@ -361,6 +361,7 @@ CHANGELOG
 * [`ramesh-dada/flarum-gui-image-and-link`](https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link)
 * [`ramesh-dada/realtime`](https://github.com/ramesh-dada/realtime)
 * [`rob006/flarum-ext-last-post-avatar`](https://github.com/rob006-software/flarum-ext-last-post-avatar)
+* [`sas_sam/flarum-regrole`](https://github.com/SasSam/flarum-regrole)
 * [`serakoi/flarum-hideprofile`](https://github.com/Serakoi/flarum-hideprofile)
 * [`spookygames/flarum-ext-auth-keycloak`](https://github.com/spookygames/flarum-ext-auth-keycloak)
 * [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter)
