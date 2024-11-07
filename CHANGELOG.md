@@ -237,6 +237,7 @@ CHANGELOG
 * [`glowingblue/localizd`](https://flarum.org/extension/glowingblue/localizd)
 * [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
 * [`glowingblue/redis-setup`](https://github.com/glowingblue/flarum-ext-redis-setup)
+* [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
 * [`hehongyuanlove/flarum-auth-qq`](https://github.com/Hehongyuanlove/flarum-auth-qq)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`ianm/gravatar`](https://github.com/imorland/gravatar)
