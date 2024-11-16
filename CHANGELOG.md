@@ -49,7 +49,7 @@ CHANGELOG
 * [`blomstra/payments`](https://flarum.org/extension/blomstra/payments)
 * [`blomstra/readme`](https://flarum.org/extension/blomstra/readme)
 * [`blomstra/realtime`](https://flarum.org/extension/blomstra/realtime)
-* [`blomstra/s3-assets`](https://flarum.org/extension/blomstra/s3-assets)
+* [`blomstra/s3-assets`](https://github.com/blomstra/flarum-ext-s3-assets)
 * [`blomstra/search`](https://github.com/blomstra/flarum-ext-search)
 * [`blomstra/secondary-tags-toggler`](https://github.com/blomstra/flarum-ext-secondary-tags-toggler)
 * [`blomstra/sort-order-toggle`](https://github.com/blomstra/flarum-ext-sort-order-toggle)
