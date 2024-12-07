@@ -294,7 +294,7 @@ CHANGELOG
 * [`justoverclock/last-tweet`](https://github.com/justoverclockl/last-tweet)
 * [`justoverclock/last-users-posts`](https://github.com/justoverclockl/last-users-posts)
 * [`justoverclock/flarum-ext-newsfeed`](https://github.com/justoverclockl/flarum-ext-newsfeed)
-* [`justoverclock/flarum-ext-newsletter`](https://github.com/justoverclockl/flarum-ext-newsletter)
+* [`justoverclock/newsletter`](https://github.com/justoverclockl/newsletter)
 * [`justoverclock/og-meta-tag`](https://github.com/justoverclockl/og-meta-tag)
 * [`justoverclock/popular-tags`](https://github.com/justoverclockl/popular-tags)
 * [`justoverclock/flarum-ext-purify`](https://github.com/justoverclockl/flarum-ext-purify)
