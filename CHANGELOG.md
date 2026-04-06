@@ -387,8 +387,8 @@ CHANGELOG
 * [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest)
 * [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs)
 * [`tituspijean/flarum-ext-auth-ldap`](https://github.com/tituspijean/flarum-ext-auth-ldap)
-* [`tohsakarat/save-and-load-draft-automatically`](https://github.com/tohsakrat/save-and-load-draft-automatically)
-* [`tohsakarat/tags-filter`](https://github.com/tohsakrat/flarum-tags-filter)
+* `tohsakarat-save-and-load-draft-automatically`
+* `tohsakarat-tags-filter`
 * [`tokenjenny/flarum-ext-web3`](https://github.com/tokenjenny/flarum-ext-web3)
 * [`tpokorra/flarum-ext-post-notification`](https://github.com/tpokorra/flarum-ext-post-notification)
 * [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
