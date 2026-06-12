@@ -95,6 +95,7 @@ CHANGELOG
 * [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
 * [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
 * [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
 * [`ianm/follow-users`](https://github.com/imorland/follow-users)
 * [`ianm/html-head`](https://github.com/imorland/html-head)
 * [`ianm/log-viewer`](https://github.com/imorland/flarum-ext-log-viewer)
