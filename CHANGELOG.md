@@ -50,6 +50,7 @@ CHANGELOG
 * [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
 * [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
 * [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
 * [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
 * [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
 * [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences)
