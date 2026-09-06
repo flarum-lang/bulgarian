@@ -107,6 +107,7 @@ CHANGELOG
 * [`ianm/log-viewer`](https://github.com/imorland/flarum-ext-log-viewer)
 * [`ianm/oauth-reddit`](https://github.com/imorland/flarum-ext-oauth-reddit)
 * [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
 * [`justoverclock/related-discussions`](https://flarum.org/extension/justoverclock/related-discussions)
 * [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
 * [`maicol07/flarum-ext-sso`](https://github.com/maicol07/flarum-ext-sso)
