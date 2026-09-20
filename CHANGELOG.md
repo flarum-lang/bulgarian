@@ -5,11 +5,11 @@ CHANGELOG
 1.0.0 (XXXX-XX-XX)
 ------------------
 
-**Общи промени**:
+**General changes**:
 
+* Updated Flarum core translations (549 added).
+* Updated validation translations (103 added).
 * Updated Day.js translations.
-* Updated Flarum core translations.
-* Актуализирани преводи за проверка.
 
 
 **Added support for new extensions**:
@@ -126,8 +126,8 @@ CHANGELOG
 * [`datitisev/flarum-webhooks-pro`](https://flarum.org/extension/datitisev/flarum-webhooks-pro)
 * [`datlechin/flarum-add-like-controls`](https://github.com/datlechin/flarum-add-like-controls)
 * [`datlechin/flarum-bbcode-hide-content`](https://github.com/datlechin/flarum-bbcode-hide-content)
-* [`datlechin/flarum-birthdays-widget`](https://github.com/datlechin/flarum-birthdays-widget)
 * [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
+* [`datlechin/flarum-birthdays-widget`](https://github.com/datlechin/flarum-birthdays-widget)
 * [`datlechin/flarum-chatgpt`](https://github.com/datlechin/flarum-chatgpt)
 * [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
 * [`datlechin/flarum-discussion-overview`](https://github.com/datlechin/flarum-discussion-overview)
@@ -290,8 +290,8 @@ CHANGELOG
 * [`justoverclock/geo-weather`](https://github.com/justoverclockl/geo-weather)
 * [`justoverclock/flarum-ext-guestengagement`](https://github.com/justoverclockl/flarum-ext-guestengagement)
 * [`justoverclock/header-slideshow`](https://github.com/justoverclockl/header-slideshow)
-* [`justoverclock/hot-discussions-cards`](https://github.com/justoverclockl/hot-discussions-cards)
 * [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions)
+* [`justoverclock/hot-discussions-cards`](https://github.com/justoverclockl/hot-discussions-cards)
 * [`justoverclock/igdb-api`](https://github.com/justoverclockl/igdb-api)
 * [`justoverclock/imdb-api`](https://github.com/justoverclockl/imdb-api)
 * [`justoverclock/flarum-ext-infocards`](https://github.com/justoverclockl/flarum-ext-infocards)
