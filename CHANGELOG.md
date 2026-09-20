@@ -5,11 +5,11 @@ CHANGELOG
 2.0.0 (XXXX-XX-XX)
 ------------------
 
-**Общи промени**:
+**General changes**:
 
+* Updated Flarum core translations (522 added).
+* Updated validation translations (28 added).
 * Updated Day.js translations.
-* Updated Flarum core translations.
-* Актуализирани преводи за проверка.
 
 
 **Added support for new extensions**:
