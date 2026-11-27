@@ -1,36 +1,23 @@
 {
 	"name": "flarum-lang/bulgarian",
+	"description": "Bulgarian Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Bulgarian language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/bulgarian",
 	"keywords": [
-		"locale",
-		"flarum",
-		"flarum-locale",
-		"bg-locale",
-		"bulgarian-locale",
-		"bulgarian"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/bulgarian",
 	"license": "MIT",
-	"authors": [
-		{
-				"name": "Nikolay Sokolov",
-				"email": "nikolay.sokolov@pingvini.bg",
-				"homepage": "https://pingvini.bg/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/bulgarian/issues",
+		"forum": "https://discuss.flarum.org/d/40173",
 		"source": "https://github.com/flarum-lang/bulgarian"
 	},
 	"require": {
 		"flarum/core": "^2.0"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
 		"flarum-extension": {
-			"title": "Български",
+			"title": "Bulgarian",
 			"category": "language",
 			"icon": {
 				"image": "icon.svg",
@@ -41,12 +28,6 @@
 		"flarum-locale": {
 			"code": "bg",
 			"title": "Български"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
 		}
 	}
 }
